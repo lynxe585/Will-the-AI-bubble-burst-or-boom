@@ -27,7 +27,7 @@ Since 2023, markets have entered an AI Boom with a very similar narrative:
 
 -   The market is asking: do current prices reflect real revenue/profit potential, or is this a new “AI Bubble” similar to Dot-com?
 
-This project approaches those questions from a  Financial Data Analyst perspective along three main axes:
+This project approaches those questions from a perspective along three main axes:
 
 -   Price vs Fundamentals – Are AI stock prices running ahead of revenue?
 
