@@ -57,6 +57,8 @@ Figure 2: The "AI Bubble Score" Gap (Exact Percentages) The "AI Bubble Score" pr
 • Highly Speculative (Red bars): Palantir leads with a massive +768.0% gap, followed by NVIDIA (+373.0%), Oracle (+256.8%), Meta (+163.5%) and Microsoft (+64.3%).
 • Fundamentally Driven (Green bars): Three companies have seen their revenue outpace their stock price growth indicating strong fundamentals without a speculative premium: Amazon (-9.4%), AMD (-10.4%) and Alphabet/Google (-14.3%)
 
+#### Individual Company Timelines and Key AI Events
+
 
 
 ## Part 2 - Overlay Analysis: Dot-com vs AI
