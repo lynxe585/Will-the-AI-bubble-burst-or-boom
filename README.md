@@ -49,6 +49,10 @@ The report defines the “AI Value Gap” as the quantitative delta between a co
 -    Official Website Stock - Stock Revenue 
 
 ![Figure 1](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure1.png)
+Figure 1: The AI Bubble Gap - Price Growth vs Revenue Growth 
+This series of line charts compares the stock price growth against revenue growth for eight major tech companies (AMD, Amazon, Google, Meta, Microsoft, NVIDIA, Oracle, and Palantir) starting from a baseline in Q1 2022. It visually demonstrates how stock prices are often highly volatile compared to the steadier upward trajectory of actual revenue.
+
+
 
 ## Part 2 - Overlay Strategy: Dot-com vs AI
 
