@@ -66,7 +66,7 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 ![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_pltr.png)
 ##### Palantir (PLTR)
 
-![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_nvda.png)
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_nvda.png?v=1)
 ##### Nvidia (NVDA)
 
 ![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_orcl.png)
