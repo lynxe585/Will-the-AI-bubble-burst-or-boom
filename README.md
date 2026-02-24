@@ -146,7 +146,7 @@ The chart uses a scale where a value closer to 1 indicates a strong correlation 
 1. Extreme Speculation (The "Bubble" Risk) Some companies are seeing their stock prices soar far beyond what their current revenue justifies, signaling a potential bubble.
 -    Palantir (PLTR) is the biggest outlier. It has the highest "AI Bubble Score" with a massive 768% gap between its price growth and revenue growth. On average, its year-over-year (YoY) stock price has grown 144% faster than its revenue. It sits deep in the "speculation" zone, meaning its valuation is driven heavily by hype rather than current earnings.
 -    Meta (META) and Oracle (ORCL) also show significant signs of speculation. Meta has an average YoY speculation gap of +63%, and Oracle's price growth has outpaced its revenue growth by 256.8% since Q1 2022.
--    
+
 2. Fundamentally Backed Hyper-Growth
 -    Nvidia (NVDA) is in a league of its own. While its stock price has grown an astonishing 837% since 2022, this is heavily supported by actual business performance, with revenue growing 464%. It boasts an average YoY revenue growth of 124%—the highest in the group. Furthermore, NVIDIA has the strongest correlation between its stock price and revenue (r = 0.960), meaning its massive market valuation is closely tied to its real-world financial success.
   
