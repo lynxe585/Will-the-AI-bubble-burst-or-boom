@@ -75,7 +75,7 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 ---
 
 ![Figure 4](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure4.png)
-Figure 4: Revenue YoY Growth: Only NVDA (Avg 124.0%) consistently exceeds the 50% YoY threshold (red bars), showing its revenue growth truly justifies the price surge.
+**Figure 4**: Revenue YoY Growth: Only NVDA (Avg 124.0%) consistently exceeds the 50% YoY threshold (red bars), showing its revenue growth truly justifies the price surge.
 The rest grow moderately: PLTR (26.8%), META (18.8%), MSFT (15.7%), GOOGL (11.6%), AMZN (11.3%), AMD (10.8%), and ORCL (8.4%).
 
 Notably, ORCL has the weakest revenue growth in the group, Figure 2 shows it carries the 3rd-largest bubble gap (+256.8%) clearly that where speculation far outweighs fundamentals.
@@ -83,7 +83,7 @@ Notably, ORCL has the weakest revenue growth in the group, Figure 2 shows it car
 ---
 
 ![Figure 5](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure5.png)
-Figure 5 – Stock Price YoY Growth (Red = >100%, Orange = >50%) 
+**Figure 5** – Stock Price YoY Growth (Red = >100%, Orange = >50%) 
 This chart shows quarterly YoY stock price growth, divided into 3 zones: above 100% (red bars), above 50% (orange bars), and below 50% (green bars). 
 Explosive Group (exceeded 100%) 
 PLTR (Latest: 438%): The hottest stock right now, exceeding 100% for multiple consecutive quarters, with the latest quarter surging to 438% — the highest in the entire group. 
@@ -114,6 +114,19 @@ Here is a detailed breakdown of what the chart shows:
 -	Microsoft (MSFT) and Alphabet (GOOGL) show the most stability. With the lowest Avg Gaps of +11% and +12% respectively, their red and green bars remain relatively close in height, indicating that their stock prices are growing largely in tandem with their actual revenue.
 -	AMD shows an Avg Gap of +20%, but its chart is highly erratic. Its stock price (red bars) swings wildly from negative growth to massive spikes of over 125%, completely detached from its much steadier, smaller revenue growth (green bars) 
 
+
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/7073b3cc4389712f27944faede3f88d108d3f70e/part1/figure7.png)
+**Figure 7**: This figure visualize the level of market speculation for each company by plotting their Average Revenue YoY% (horizontal X-axis) against their Average Stock Price YoY% (vertical Y-axis)
+
+Here is a detailed breakdown of what the chart shows: 
+-	The chart uses reference lines to establish what healthy, fundamentally backed growth looks like versus speculative hype
+-	1:1 Line (Dashed Gray): This represents perfect balance. If a company sits on this line, its stock price is growing at the exact same rate as its actual revenue. 
+-	2:1 Line (Dashed Red): This represents a threshold where a company’s stock price is growing twice as fast as its revenue. 
+-	Read Shaded Area positioning “Above line = Speculation.” The further a company sits above the 1:1 baseline (and especially the 2:1 line), the more its stock proce is being driven by future expectations and hype rather than current financial performance. 
+-	Palantir (PLTR) is the biggest outlier on the chart. It sits extremely high on the Y-axis (averaging roughly 170% price growth) but relatively low on the X-axis (around 25% revenue growth). This places it far above the 2:1 line, indicating massive market speculation. 
+-	Meta (META), Oracle (ORCL) and AMD also land distinctly above the 2:1 line, showing that their stock price growth has significantly outpaced their underlying revenue growth
+-	Nvidia (NVDA) is positioned uniquely far to the right side of the chart. While its average price growth is incredibly high (around 140%), it is the only company with the massive average revenue growth (over 120%) to back it up. Because it sits relatively close to the 1:1 dashed line, its explosive stock price is largely justified by real business performance rather than just speculation.
+-	Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) are clustered in the lower-left quadrant. They sit closest to the 1:1 baseline, indicating that their moderate stock price gains are closely aligned with their steady revenue growth.
 
 ## Part 2 - Overlay Analysis: Dot-com vs AI
 
