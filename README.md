@@ -48,6 +48,7 @@ The report defines the “AI Value Gap” as the quantitative delta between a co
 -    Yahoo Finance Library - Stock Price
 -    Official Website Stock - Stock Revenue 
 
+![Figure 1](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure1.png)
 
 ## Part 2 - Overlay Strategy: Dot-com vs AI
 
