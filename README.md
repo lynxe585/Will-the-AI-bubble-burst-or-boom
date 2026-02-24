@@ -69,6 +69,18 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 ##### Amazon (AMZN)
 
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/8cee465c64b92c8c03177d93e0e4339aa185ac62/part1/figure6.png)
+**Figure 6**: This figure visually demonstrates the “speculation gap” for each company by comparing their year-over-year (YoY) stock price growth directly alongside their YoY revenue growth for every quarter. 
+
+Here is a detailed breakdown of what the chart shows: 
+-	For each of the eight tech companies, there is a bar chart showing performance from Q1/2023 to Q2/2025. Red bars represent stock YoY growth, while green bars represent actual revenue YoY growth.
+-	Whenever a red bar towers over a green bar, it means the stock price is growing much faster than the actual money the company is making. The chart calculates an “Avg Gap” for each company to summarize this difference.
+-	Palantir (PLTR) exhibits the most extreme disconnect, with an Avg Gap of +144%. Its recent red bars (price growth) explode upward – reaching over 400% YoY – while its green bars (revenue growth) remain very small by comparison.
+-	Meta also shows high speculation with an Avg Gap of +63%, driven by massive stock price spikes approaching 200% YoY in 2023 and 2024 against much more modest revenue growth.
+-	Nvidia (NVDA) is a unique outlier. It has a relatively modest Avg Gap of 18%. This isn’t because its stock price didn’t soar (the red bars are huge), but rather because its actual revenue growth (the green bars) frequently exceeded 150% to 250% YoY, keeping pace with the hype.
+-	Microsoft (MSFT) and Alphabet (GOOGL) show the most stability. With the lowest Avg Gaps of +11% and +12% respectively, their red and green bars remain relatively close in height, indicating that their stock prices are growing largely in tandem with their actual revenue.
+-	AMD shows an Avg Gap of +20%, but its chart is highly erratic. Its stock price (red bars) swings wildly from negative growth to massive spikes of over 125%, completely detached from its much steadier, smaller revenue growth (green bars) 
+
 
 ## Part 2 - Overlay Analysis: Dot-com vs AI
 
