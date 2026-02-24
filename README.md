@@ -103,7 +103,7 @@ Key Takeaway: Price momentum for most AI stocks is clearly fading except  PLTR w
 ---
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/8cee465c64b92c8c03177d93e0e4339aa185ac62/part1/figure6.png)
-##### **Figure 6**: This figure visually demonstrates the “speculation gap” for each company by comparing their year-over-year (YoY) stock price growth directly alongside their YoY revenue growth for every quarter. 
+#### **Figure 6**: This figure visually demonstrates the “speculation gap” for each company by comparing their year-over-year (YoY) stock price growth directly alongside their YoY revenue growth for every quarter. 
 
 Here is a detailed breakdown of what the chart shows: 
 -	For each of the eight tech companies, there is a bar chart showing performance from Q1/2023 to Q2/2025. Red bars represent stock YoY growth, while green bars represent actual revenue YoY growth.
@@ -116,7 +116,7 @@ Here is a detailed breakdown of what the chart shows:
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/7073b3cc4389712f27944faede3f88d108d3f70e/part1/figure7.png)
-##### **Figure 7**: This figure visualize the level of market speculation for each company by plotting their Average Revenue YoY% (horizontal X-axis) against their Average Stock Price YoY% (vertical Y-axis)
+#### **Figure 7**: This figure visualize the level of market speculation for each company by plotting their Average Revenue YoY% (horizontal X-axis) against their Average Stock Price YoY% (vertical Y-axis)
 
 Here is a detailed breakdown of what the chart shows: 
 -	The chart uses reference lines to establish what healthy, fundamentally backed growth looks like versus speculative hype
