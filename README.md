@@ -63,13 +63,28 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 
 #### Individual Company Timelines and Key AI Events
 
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_pltr.png)
 ##### Palantir (PLTR)
+
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_nvda.png)
 ##### Nvidia (NVDA)
+
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_orcl.png)
 ##### Oracle (ORCL)
+
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_meta.png)
 ##### Meta (META)
+
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_msft.png)
 ##### Microsoft (MSFT)
+
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_googl.png)
 ##### Alphbet (GOOGL)
+
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_amd.png)
 ##### AMD (AMD)
+
+![Figure 3](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure3_amzn.png)
 ##### Amazon (AMZN)
 
 ---
