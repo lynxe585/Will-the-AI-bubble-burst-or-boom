@@ -18,6 +18,7 @@ These three parts a connected study of the current AI equity cycle versus fundam
   > **"History doesn't repeat itself, but it often rhymes."** — Mark Twain
 
 In the late 1990s, global markets experienced the Dot-com Bubble. Investors believed “the internet will change the world,” driving a violent rally in technology stocks, especially internet names and infrastructure players such as Cisco, Intel, Qualcomm, and the NASDAQ index. The bubble burst in 2000–2001, triggering a major correction in US equities.
+Under this analytical lens, we have identified eight benchmark companies AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR to test the decoupling hypothesis.
   
 Since 2023, markets have entered an AI Boom with a very similar narrative:
 
@@ -41,8 +42,6 @@ This project approaches those questions from a perspective along three main axes
 In the current AI-driven market cycle, the primary imperative for analysis is decoupling exuberant stock price performance from realized revenue growth. As capital flows into AI industry at an unprecedented scale, market valuations have frequently detached from the fundamental capacity of entities to generate earnings.
 
 The report defines the “AI Value Gap” as the quantitative delta between a company’s indexed market valuation (price growth) and its fundamental top-line performance (revenue growth). By isolating this delta, we can distinguish between entities supported by operational scaling and those buoyed by speculative sentiment.
-
-Under this analytical lens, we have identified eight benchmark companies AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR to test the decoupling hypothesis. By benchmarking their price to revenue trajectories, we can quantify the 'AI Value Gap' across the most influential players in the current cycle. 
 
 ### Dataset:
 -    Yahoo Finance Library - Stock Price
