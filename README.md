@@ -42,7 +42,8 @@ In the current AI-driven market cycle, the primary imperative for analysis is de
 
 The report defines the “AI Value Gap” as the quantitative delta between a company’s indexed market valuation (price growth) and its fundamental top-line performance (revenue growth). By isolating this delta, we can distinguish between entities supported by operational scaling and those buoyed by speculative sentiment.
 
-Under this analytical lens, we have identified eight benchmark companies—AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR—to test the decoupling hypothesis. By benchmarking their price-to-revenue trajectories, we can quantify the 'AI Value Gap' across the most influential players in the current cycle. 
+Under this analytical lens, we have identified eight benchmark companies AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR—to test the decoupling hypothesis. By benchmarking their price to revenue trajectories, we can quantify the 'AI Value Gap' across the most influential players in the current cycle. 
+
 ### Dataset:
 -    Yahoo Finance Library - Stock Price
 -    Official Website Stock - Stock Revenue 
