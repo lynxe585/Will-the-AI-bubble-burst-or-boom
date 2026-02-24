@@ -52,10 +52,14 @@ The report defines the “AI Value Gap” as the quantitative delta between a co
 **Figure 1**: The AI Bubble Gap - Price Growth vs Revenue Growth 
 This series of line charts compares the stock price growth against revenue growth for eight major tech companies (AMD, Amazon, Google, Meta, Microsoft, NVIDIA, Oracle, and Palantir) starting from a baseline in Q1 2022. It visually demonstrates how stock prices are often highly volatile compared to the steadier upward trajectory of actual revenue.
 
+---
+
 ![Figure 2](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure2.png)
 **Figure 2**: The "AI Bubble Score" Gap (Exact Percentages) The "AI Bubble Score" precisely quantifies the difference between stock price growth and revenue growth since Q1 2022.
 Highly Speculative (Red bars): Palantir leads with a massive +768.0% gap, followed by NVIDIA (+373.0%), Oracle (+256.8%), Meta (+163.5%) and Microsoft (+64.3%).
 Fundamentally Driven (Green bars): Three companies have seen their revenue outpace their stock price growth indicating strong fundamentals without a speculative premium: Amazon (-9.4%), AMD (-10.4%) and Alphabet/Google (-14.3%).
+
+---
 
 #### Individual Company Timelines and Key AI Events
 
@@ -68,16 +72,19 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 ##### AMD (AMD)
 ##### Amazon (AMZN)
 
+---
+
 ![Figure 4](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure4.png)
 Figure 4: Revenue YoY Growth: Only NVDA (Avg 124.0%) consistently exceeds the 50% YoY threshold (red bars), showing its revenue growth truly justifies the price surge.
 The rest grow moderately: PLTR (26.8%), META (18.8%), MSFT (15.7%), GOOGL (11.6%), AMZN (11.3%), AMD (10.8%), and ORCL (8.4%).
 
 Notably, ORCL has the weakest revenue growth in the group, Figure 2 shows it carries the 3rd-largest bubble gap (+256.8%) clearly that where speculation far outweighs fundamentals.
 
+---
+
 ![Figure 5](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure5.png)
 Figure 5 – Stock Price YoY Growth (Red = >100%, Orange = >50%) 
 This chart shows quarterly YoY stock price growth, divided into 3 zones: above 100% (red bars), above 50% (orange bars), and below 50% (green bars). 
-
 Explosive Group (exceeded 100%) 
 PLTR (Latest: 438%): The hottest stock right now, exceeding 100% for multiple consecutive quarters, with the latest quarter surging to 438% — the highest in the entire group. 
 NVDA (Latest: 54%): Once surpassed 200% during Q2–Q4 2024, but has now slowed to 54%, suggesting its "peak price momentum" may have already passed.
@@ -93,7 +100,7 @@ AMZN (Latest: 14%): Once surged past 80%, now only 14%.
 GOOGL (Latest: −3%):Once reached nearly 60% in Q2 2023, but has now turned negative. 
 Key Takeaway: Price momentum for most AI stocks is clearly fading except  PLTR which remains abnormally hot, potentially signaling late-stage speculation.
 
-
+---
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/8cee465c64b92c8c03177d93e0e4339aa185ac62/part1/figure6.png)
 **Figure 6**: This figure visually demonstrates the “speculation gap” for each company by comparing their year-over-year (YoY) stock price growth directly alongside their YoY revenue growth for every quarter. 
