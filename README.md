@@ -140,6 +140,22 @@ The chart uses a scale where a value closer to 1 indicates a strong correlation 
 -    Moderate Correlation (Orange bar, 0.5 <= r < 0.8): Amazon (AMZN) is the only company in the moderate tier, with a correlation of r = 0.645 and an R² of 0.416.
 -    Weak Correlation (Red bar, r < 0.5): AMD is the extreme outlier on this chart, exhibiting a uniquely weak correlation of just r = 0.188. Its incredibly low R² value of 0.035 indicates that a mere 3.5% of its stock price movements are tied to its actual revenue. This highlights that AMD's stock price is highly volatile and currently detached from its fundamental financial performance
 
+### Summary
+1. Extreme Speculation (The "Bubble" Risk) Some companies are seeing their stock prices soar far beyond what their current revenue justifies, signaling a potential bubble.
+-    Palantir (PLTR) is the biggest outlier. It has the highest "AI Bubble Score" with a massive 768% gap between its price growth and revenue growth. On average, its year-over-year (YoY) stock price has grown 144% faster than its revenue. It sits deep in the "speculation" zone, meaning its valuation is driven heavily by hype rather than current earnings.
+-    Meta (META) and Oracle (ORCL) also show significant signs of speculation. Meta has an average YoY speculation gap of +63%, and Oracle's price growth has outpaced its revenue growth by 256.8% since Q1 2022.
+-    
+2. Fundamentally Backed Hyper-Growth
+-    Nvidia (NVDA) is in a league of its own. While its stock price has grown an astonishing 837% since 2022, this is heavily supported by actual business performance, with revenue growing 464%. It boasts an average YoY revenue growth of 124%—the highest in the group. Furthermore, NVIDIA has the strongest correlation between its stock price and revenue (r = 0.960), meaning its massive market valuation is closely tied to its real-world financial success.
+  
+3. Balanced and Steady Growth The traditional big tech giants show healthy, balanced growth where stock prices accurately reflect underlying revenue.
+
+-    Microsoft (MSFT), Alphabet/Google (GOOGL), and Amazon (AMZN) all cluster safely near the baseline of fundamentally sound growth.
+-    Google and Amazon actually show negative "Bubble Scores" (-14.3% and -9.4% respectively), meaning their revenue has actually grown faster than their stock prices since Q1 2022. Microsoft shows a modest, healthy gap of +11% YoY.
+
+4. Detached Volatility
+-    AMD represents a unique case of market disconnect. Its stock price movements are highly erratic and swing wildly. It has the weakest fundamental correlation of the group (r = 0.188), meaning only a minuscule 3.5% of its stock price movement is tied to its actual revenue. This makes AMD a highly volatile stock driven by market sentiment rather than direct financial performance.
+
 ---
 
 
@@ -147,5 +163,7 @@ The chart uses a scale where a value closer to 1 indicates a strong correlation 
 
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
+
+## Conclusion
 
 
