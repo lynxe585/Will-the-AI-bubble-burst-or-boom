@@ -59,6 +59,15 @@ This series of line charts compares the stock price growth against revenue growt
 
 #### Individual Company Timelines and Key AI Events
 
+##### Palantir (PLTR)
+##### Nvidia (NVDA)
+##### Oracle (ORCL)
+##### Meta (META)
+##### Microsoft (MSFT)
+##### Alphbet (GOOGL)
+##### AMD (AMD)
+##### Amazon (AMZN)
+
 
 
 ## Part 2 - Overlay Analysis: Dot-com vs AI
