@@ -37,3 +37,11 @@ This project approaches those questions from a  Financial Data Analyst perspecti
 
 
 ## Part 1: AI Bubble Analysis (Price vs Reality Check)
+
+
+## Part 2: Overlay Strategy: Dot-com vs AI
+
+
+## Part 3: AI Market “Weight & Impact” Analysis
+
+
