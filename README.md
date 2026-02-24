@@ -7,9 +7,9 @@
 ### Overview
 These three notebooks form a connected study of the current AI equity cycle versus fundamentals and history:
 
--	**Part 1**: Are AI stock prices outrunning their fundamentals (Revenue)?
--	**Part 2**: How does the AI cycle visually compare with the dot-com bubble across key stocks and indices?
--	**Part 3**: How big is the AI complex inside the S&P 500, how is broad is the rally, and what if AI crashed?
+-	[**Part 1**:](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/tree/main?tab=readme-ov-file#part-1-ai-bubble-analysis-price-vs-reality-check) Are AI stock prices outrunning their fundamentals (Revenue)?
+-	[**Part 2**](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/tree/main?tab=readme-ov-file#part-2-overlay-strategy-dot-com-vs-ai): How does the AI cycle visually compare with the dot-com bubble across key stocks and indices?
+-	[**Part 3**](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/tree/main?tab=readme-ov-file#part-3-ai-market-weight--impact-analysis): How big is the AI complex inside the S&P 500, how is broad is the rally, and what if AI crashed?
 
 
 ## An introduction: From the Dot-com Era to the AI Era 
@@ -37,7 +37,3 @@ This project approaches those questions from a  Financial Data Analyst perspecti
 
 
 ## Part 1: AI Bubble Analysis (Price vs Reality Check)
-
-## Part 2: Overlay Strategy: Dot-com vs AI
-
-## Part 3 AI Market “Weight & Impact” Analysis
