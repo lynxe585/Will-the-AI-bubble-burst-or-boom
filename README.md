@@ -112,8 +112,9 @@ Here is a detailed breakdown of what the chart shows:
 -	Meta also shows high speculation with an Avg Gap of +63%, driven by massive stock price spikes approaching 200% YoY in 2023 and 2024 against much more modest revenue growth.
 -	Nvidia (NVDA) is a unique outlier. It has a relatively modest Avg Gap of 18%. This isn’t because its stock price didn’t soar (the red bars are huge), but rather because its actual revenue growth (the green bars) frequently exceeded 150% to 250% YoY, keeping pace with the hype.
 -	Microsoft (MSFT) and Alphabet (GOOGL) show the most stability. With the lowest Avg Gaps of +11% and +12% respectively, their red and green bars remain relatively close in height, indicating that their stock prices are growing largely in tandem with their actual revenue.
--	AMD shows an Avg Gap of +20%, but its chart is highly erratic. Its stock price (red bars) swings wildly from negative growth to massive spikes of over 125%, completely detached from its much steadier, smaller revenue growth (green bars) 
-
+-	AMD shows an Avg Gap of +20%, but its chart is highly erratic. Its stock price (red bars) swings wildly from negative growth to massive spikes of over 125%, completely detached from its much steadier, smaller revenue growth (green bars)
+  
+---
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/7073b3cc4389712f27944faede3f88d108d3f70e/part1/figure7.png)
 #### **Figure 7**: This figure visualize the level of market speculation for each company by plotting their Average Revenue YoY% (horizontal X-axis) against their Average Stock Price YoY% (vertical Y-axis)
@@ -128,6 +129,7 @@ Here is a detailed breakdown of what the chart shows:
 -	Nvidia (NVDA) is positioned uniquely far to the right side of the chart. While its average price growth is incredibly high (around 140%), it is the only company with the massive average revenue growth (over 120%) to back it up. Because it sits relatively close to the 1:1 dashed line, its explosive stock price is largely justified by real business performance rather than just speculation.
 -	Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) are clustered in the lower-left quadrant. They sit closest to the 1:1 baseline, indicating that their moderate stock price gains are closely aligned with their steady revenue growth.
 
+---
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/7ba88c598ee0df30087e498ef53c893390dfee4c/part1/figure8.png)
 #### Figure 8: This figure is a horizontal bar chart that measures the Pearson Correlation (r) between each company's stock price and its actual revenue. It evaluates how closely a stock's market performance is tied to the underlying business fundamentals.
@@ -138,7 +140,7 @@ The chart uses a scale where a value closer to 1 indicates a strong correlation 
 -    Moderate Correlation (Orange bar, 0.5 <= r < 0.8): Amazon (AMZN) is the only company in the moderate tier, with a correlation of r = 0.645 and an R² of 0.416.
 -    Weak Correlation (Red bar, r < 0.5): AMD is the extreme outlier on this chart, exhibiting a uniquely weak correlation of just r = 0.188. Its incredibly low R² value of 0.035 indicates that a mere 3.5% of its stock price movements are tied to its actual revenue. This highlights that AMD's stock price is highly volatile and currently detached from its fundamental financial performance
 
-
+---
 
 
 ## Part 2 - Overlay Analysis: Dot-com vs AI
