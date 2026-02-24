@@ -139,6 +139,8 @@ The chart uses a scale where a value closer to 1 indicates a strong correlation 
 -    Strong Correlation (Green bars, r >= 0.8): The majority of the companies show a strong link between their stock price and revenue. NVIDIA (NVDA) leads the group with the highest correlation of r = 0.960. Its R-squared (R²) value of 0.921 means that a massive 92.1% of its stock price variance can be directly explained by its revenue generation. Palantir (r = 0.947), Microsoft (r = 0.935), Meta (r = 0.916), Oracle (r = 0.835), and Alphabet/Google (r = 0.827) also demonstrate strong fundamental alignment.
 -    Moderate Correlation (Orange bar, 0.5 <= r < 0.8): Amazon (AMZN) is the only company in the moderate tier, with a correlation of r = 0.645 and an R² of 0.416.
 -    Weak Correlation (Red bar, r < 0.5): AMD is the extreme outlier on this chart, exhibiting a uniquely weak correlation of just r = 0.188. Its incredibly low R² value of 0.035 indicates that a mere 3.5% of its stock price movements are tied to its actual revenue. This highlights that AMD's stock price is highly volatile and currently detached from its fundamental financial performance
+  
+---
 
 ### Summary
 1. Extreme Speculation (The "Bubble" Risk) Some companies are seeing their stock prices soar far beyond what their current revenue justifies, signaling a potential bubble.
