@@ -128,6 +128,19 @@ Here is a detailed breakdown of what the chart shows:
 -	Nvidia (NVDA) is positioned uniquely far to the right side of the chart. While its average price growth is incredibly high (around 140%), it is the only company with the massive average revenue growth (over 120%) to back it up. Because it sits relatively close to the 1:1 dashed line, its explosive stock price is largely justified by real business performance rather than just speculation.
 -	Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) are clustered in the lower-left quadrant. They sit closest to the 1:1 baseline, indicating that their moderate stock price gains are closely aligned with their steady revenue growth.
 
+
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/7ba88c598ee0df30087e498ef53c893390dfee4c/part1/figure8.png)
+#### Figure 8: This figure is a horizontal bar chart that measures the Pearson Correlation (r) between each company's stock price and its actual revenue. It evaluates how closely a stock's market performance is tied to the underlying business fundamentals.
+
+The chart uses a scale where a value closer to 1 indicates a strong correlation (meaning the stock price moves predictably in tandem with revenue), and color-codes the companies into three distinct categories based on these values:
+
+-    Strong Correlation (Green bars, r >= 0.8): The majority of the companies show a strong link between their stock price and revenue. NVIDIA (NVDA) leads the group with the highest correlation of r = 0.960. Its R-squared (R²) value of 0.921 means that a massive 92.1% of its stock price variance can be directly explained by its revenue generation. Palantir (r = 0.947), Microsoft (r = 0.935), Meta (r = 0.916), Oracle (r = 0.835), and Alphabet/Google (r = 0.827) also demonstrate strong fundamental alignment.
+-    Moderate Correlation (Orange bar, 0.5 <= r < 0.8): Amazon (AMZN) is the only company in the moderate tier, with a correlation of r = 0.645 and an R² of 0.416.
+-    Weak Correlation (Red bar, r < 0.5): AMD is the extreme outlier on this chart, exhibiting a uniquely weak correlation of just r = 0.188. Its incredibly low R² value of 0.035 indicates that a mere 3.5% of its stock price movements are tied to its actual revenue. This highlights that AMD's stock price is highly volatile and currently detached from its fundamental financial performance
+
+
+
+
 ## Part 2 - Overlay Analysis: Dot-com vs AI
 
 
