@@ -2,7 +2,7 @@
 # Will the AI bubble burst or boom?
 
     
-   >Disclaimer:This analysis is for educational and insight purposes only. It is not investment advice.
+   >Disclaimer: This analysis is for educational and insight purposes only. It is not investment advice.
 
 ### Overview
 These three parts a connected study of the current AI equity cycle versus fundamentals and history:
