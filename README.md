@@ -52,9 +52,14 @@ The report defines the “AI Value Gap” as the quantitative delta between a co
 Figure 1: The AI Bubble Gap - Price Growth vs Revenue Growth 
 This series of line charts compares the stock price growth against revenue growth for eight major tech companies (AMD, Amazon, Google, Meta, Microsoft, NVIDIA, Oracle, and Palantir) starting from a baseline in Q1 2022. It visually demonstrates how stock prices are often highly volatile compared to the steadier upward trajectory of actual revenue.
 
+![Figure 1](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure2.png)
+Figure 2: The "AI Bubble Score" Gap (Exact Percentages) The "AI Bubble Score" precisely quantifies the difference between stock price growth and revenue growth since Q1 2022:
+• Highly Speculative (Red bars): Palantir leads with a massive +768.0% gap, followed by NVIDIA (+373.0%), Oracle (+256.8%), Meta (+163.5%) and Microsoft (+64.3%).
+• Fundamentally Driven (Green bars): Three companies have seen their revenue outpace their stock price growth indicating strong fundamentals without a speculative premium: Amazon (-9.4%), AMD (-10.4%) and Alphabet/Google (-14.3%)
 
 
-## Part 2 - Overlay Strategy: Dot-com vs AI
+
+## Part 2 - Overlay Analysis: Dot-com vs AI
 
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
