@@ -38,6 +38,14 @@ This project approaches those questions from a perspective along three main axes
 
 ## Part 1 - AI Bubble Analysis (Price vs Reality Check)
 
+In the current AI-driven market cycle, the primary imperative for analysis is decoupling exuberant stock price performance from realized revenue growth. As capital flows into AI industry at an unprecedented scale, market valuations have frequently detached from the fundamental capacity of entities to generate earnings.
+
+The report defines the “AI Value Gap” as the quantitative delta between a company’s indexed market valuation (price growth) and its fundamental top-line performance (revenue growth). By isolating this delta, we can distinguish between entities supported by operational scaling and those buoyed by speculative sentiment.
+
+### Dataset:
+-    Yahoo Finance Library - Stock Price
+-    Official Website Stock - Stock Revenue 
+
 
 ## Part 2 - Overlay Strategy: Dot-com vs AI
 
