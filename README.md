@@ -224,6 +224,27 @@ The chart visually demonstrates a recurring pattern in technology booms: a "winn
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure3.png)
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure4.png)
+#### ** Figure 4**: Survivors' Reflection: Past Self vs Present Self
+compares the stock price trajectories of three Dot-com era survivors including  Amazon (AMZN), Microsoft (MSFT) and Oracle (ORCL) across two periods; Dot-com bubble (1999–2001) and the AI era (2023–2025). All prices are normalized to 100 at t=0 allowing a direct overlay comparison of price behavior over 750 trading days.
+
+Here is the detailed breakdown of the chart’s components:
+
+AMZN (Top Panel):
+During the Dot-com era, Amazon rose sharply before suffering a catastrophic -94.4% max drawdown, losing nearly all its value.
+In the AI era, Amazon has experienced a much steadier upward trend, reaching normalized price 270 with a relatively mild -30.9% max drawdown. The trajectory suggests far more sustainable growth this time around.
+
+MSFT (Middle Panel):
+Microsoft tracked a similar path in both eras during the first 150 trading days, but diverged significantly afterward.
+The Dot-com version peaked around normalized price 160 before collapsing with a -65.2% max drawdown, eventually settling near its starting price.
+The AI-era version has surged to  normalized price 220 with only a -23.7% max drawdown, indicating strong fundamental support.
+
+ORCL (Bottom Panel):
+Oracle was the most volatile in both eras. During the Dot-com bubble, it spiked to over normalized price 600 before crashing with a -76.8% max drawdown.
+In the AI era, Oracle has followed a similar explosive trajectory reaching  normalized price 400 before pulling back, with a notable -45.6% max drawdown  the highest among the three survivors in the current cycle.
+
+All three Dot-com survivors show significantly smaller drawdowns in the AI era compared to 1999–2001, suggesting stronger fundamentals today’s AI rally. However, Oracle's -45.6% drawdown stands out as a warning sign,  its speculative behavior most closely mirrors the Dot-com pattern.
+
 ## Part 3 - AI Market “Weight & Impact” Analysis
 
 ## Conclusion
