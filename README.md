@@ -237,16 +237,16 @@ compares the stock price trajectories of three Dot-com era survivors including  
 
 Here is the detailed breakdown of the chart’s components:
 
-AMZN (Top Panel):
+-    AMZN (Top Panel):
 During the Dot-com era, Amazon rose sharply before suffering a catastrophic -94.4% max drawdown, losing nearly all its value.
 In the AI era, Amazon has experienced a much steadier upward trend, reaching normalized price 270 with a relatively mild -30.9% max drawdown. The trajectory suggests far more sustainable growth this time around.
 
-MSFT (Middle Panel):
+-    MSFT (Middle Panel):
 Microsoft tracked a similar path in both eras during the first 150 trading days, but diverged significantly afterward.
 The Dot-com version peaked around normalized price 160 before collapsing with a -65.2% max drawdown, eventually settling near its starting price.
 The AI-era version has surged to  normalized price 220 with only a -23.7% max drawdown, indicating strong fundamental support.
 
-ORCL (Bottom Panel):
+-    ORCL (Bottom Panel):
 Oracle was the most volatile in both eras. During the Dot-com bubble, it spiked to over normalized price 600 before crashing with a -76.8% max drawdown.
 In the AI era, Oracle has followed a similar explosive trajectory reaching  normalized price 400 before pulling back, with a notable -45.6% max drawdown  the highest among the three survivors in the current cycle.
 
