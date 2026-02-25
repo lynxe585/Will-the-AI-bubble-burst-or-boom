@@ -81,19 +81,19 @@ Each chart overlays quarterly stock price (line) against quarterly revenue (bars
 
 ![Figure 3](./part1/figure3_msft.png)
 ##### Microsoft (MSFT)
-
+**Figure 3.5** Microsoft (MSFT) with Gap +64.3% (Price +126.4% vs. Revenue +62.2%) The only stock in this group with a significant positive gap. Revenue grew steadily (~$50B → ~$80B/quarter), but the stock more than doubled, fueled by the OpenAI partnership, Bing AI, and Copilot rollout. This suggests a substantial speculative premium tied to AI narrative.
 
 ![Figure 3](./part1/figure3_googl.png)
 ##### Alphbet (GOOGL)
-
+**Figure 3.6** Alphabet (GOOGL) with Gap −14.3% (Price +27.5% vs. Revenue +41.8%) Revenue outpaced price appreciation despite Bard, Gemini, and Gemini 1.5 launches. Revenue climbed from ~$70B to ~$95B/quarter while the stock recovered more cautiously from 2022 lows  indicating fundamentally supported valuation.
 
 ![Figure 3](./part1/figure3_amd.png)
 ##### AMD (AMD)
-
+**Figure 3.7** AMD (AMD) with a Gap 10.4% (Price +20.2% vs. Revenue +30.5%) Revenue grew from ~$5.5B to ~$7.5B/quarter, boosted by MI300/MI325X AI chip launches and the Silo AI acquisition. The stock spiked to ~$180 in early 2024 but pulled back sharply, reflecting market skepticism about competing with NVIDIA despite solid revenue execution.
 
 ![Figure 3](./part1/figure3_amzn.png)
 ##### Amazon (AMZN)
-
+**Figure 3.7** Amazon (AMZN) with a Gap −9.4% (Price +34.6% vs. Revenue +44.0%) Revenue scaled from ~$120B to ~$175B/quarter, supported by the $4B Anthropic deal, Bedrock AI, and Nova AI Models. Price growth lagged revenue growth, pointing to fundamentally driven appreciation rather than speculation.
 ---
 
 ![Figure 4](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure4.png)
