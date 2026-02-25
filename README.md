@@ -269,6 +269,24 @@ Both eras reached nearly the same peak at 230 (normalized price), but the AI-era
 
 
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part2/figure8.png)
+#### **Figure 8**: The chart measures how violently the overall stock market was swinging up and down during both tech booms.
+
+Here is the detailed breakdown of the chart’s components:
+
+The Dot-com Era (Red Dashed Line): The late 90s and early 2000s market was highly unstable.
+-    Average Volatility: The horizon red dotted line shows the era averaged a very high 38.5% volatility.
+-    The Peak: Market panic reached its maximum on January 4, 2001 hitting a staggering 87.7% volatility. On that specific day, individual speculative stocks like MicroStrategy (MSTR) were seeing wild swings of 170.3%.
+-    The Trough: Even at its calmest point (September 1, 2000) the Dot-com market’s volatility was 16.7%. 
+
+
+The AI Era (Blue Solid line): The current market is behaving much more calmly.
+-    Average Volatility: The horizontal blue dotted line shows the AI era averages only 18.6% volatility less than half of the Dot-com average.
+-    The Peak: The highest point of panic in the AI occurred on April 24, 2025 reaching 60.9% volatility (with AMD hitting 112.2% individually). However, this peak was relatively brief and still much lower than the Dot-com extreme.
+=    The Trough: At its calmest point on July 31, 2025 the AI market dropped to a very stable 7.5% volatility.
+
+
+This chart directly proves that the AI boom is taking place in a significantly more stable market environment than the Dot-com bubble. While the Dot-com era was characterized by chaotic, erratic price swings that kept investors on edge, the AI era has maintained consistently lower volatility, resulting in a much smoother and steadier ride overall  
 
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
