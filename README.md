@@ -204,6 +204,23 @@ Here is the detailed breakdown of the chart’s components:
 
 While both companies were the superstars of their eras, the chart shows that Nvidia’s growth during the AI boom is much, much bigger than Cisco’s growth was during the internet boom.
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/5d8c734095f35a19b4d3c5930cdecfb40dd3197f/part2/figure2.png)
+#### **Figure 2**: The chart designed to compare the stock market performance of key hardware companies during two distinct technological eras
+
+Here is the detailed breakdown of the chart’s components: 
+
+The Dot-com Era (Dashed lines): This tracks two major chipmakers from the late 1990s.
+-    Intel (INTC - red dashed line) shows very minimal growth throughout the period, remaining mostly flat and hovering near the 100-200 level.
+-    Qualcomm (QCOM - orange dashed line) shows extremely rapid and volatile growth. The line spikes dramatically to a peak of over 2,500 before trading day 300, followed by a severe and jagged decline back toward 500 by the end of the timeline.
+
+
+The AI Era (Solid Lines): This tracks two major chipmakers in the current AI market.
+-    AMD (green solid line) shows moderate, steady growth, rising from the 100 baseline to roughly the 300-400 range by the end of the 750 days.
+-    Nvidia (NVDA - blue solid line) shows massive, sustained growth. While not as rapid as Qualcomm’s initial spike, Nvidia climbs steadily to nearly 1,500 over the course of the timeline, completely separating itself from AMD’s trajectory.
+
+The chart visually demonstrates a recurring pattern in technology booms: a "winner-takes-most" dynamic. In both the Dot-com and AI eras, one primary hardware infrastructure company (Qualcomm then, Nvidia now) vastly outperformed its closest competitor (Intel then, AMD now). Furthermore, it shows that while both market leaders experienced explosive growth, Qualcomm's trajectory was a sharp, highly volatile spike and crash, whereas Nvidia's trajectory has been a steadier, prolonged upward climb.
+
+
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure3.png)
 
