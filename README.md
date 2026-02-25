@@ -199,8 +199,8 @@ This report applies an Overlay Analysis — time-aligning 752 trading days of da
 
 Here is the detailed breakdown of the chart’s components: 
 -    The chart tracks the Normalized Price (Base = 100) over approximately 750 trading days, allowing for a direct “apples-to-apples” comparison of their growth trajectories from an equal starting baseline.
--    Cisco (CSCO:Red Line) represents stock from 1999 to 2001. It illustrates the classic bubble trajectory: a steady rise to a peak normalized price of 336, followed by a steep crash where the stock eventually falls back below the original 100 baseline. 
--    Nvidia (NVDA:Blue Line) represents stock from 2023 to 2025. It shows a much more explosive, prolonged and volatile upward climb, ultimately reaching a massive peak of 1,448. 
+-    Cisco (CSCO - Red Line) represents stock from 1999 to 2001. It illustrates the classic bubble trajectory: a steady rise to a peak normalized price of 336, followed by a steep crash where the stock eventually falls back below the original 100 baseline. 
+-    Nvidia (NVDA - Blue Line) represents stock from 2023 to 2025. It shows a much more explosive, prolonged and volatile upward climb, ultimately reaching a massive peak of 1,448. 
 
 While both companies were the superstars of their eras, the chart shows that Nvidia’s growth during the AI boom is much, much bigger than Cisco’s growth was during the internet boom.
 
@@ -223,6 +223,13 @@ The chart visually demonstrates a recurring pattern in technology booms: a "winn
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure3.png)
+#### **Figure 3**: The chart consists of two side-by-side area charts that measure the performance gap between the top two hardware companies in their respective technological booms
+
+Here is the detailed breakdown of the chart’s components: 
+-    The Left chart (Dot-com Era - Red) tracks the spread between Qualcomm (QCOM) and Intel (INTC). The data shows a massive, sudden spike, with the performance gap reaching nearly 2,500 around trading day 250. However, this is immediately followed by a sharp crash and extreme volatility, with the spread wildly fluctuating between 500 and 1,500 for the rest of the timeline.
+-    The Right Chart (AI-Era - Blue) tracks the spread between Nvidia (NVDA) and AMD. In stark contrast to the Dot-com era, this spread does not show a sudden, jagged spike. Instead, it displays a steady, continuous upward climb, with the performance gap widening consistently until it reaches approximately 1,000 near the end of the 750-day timeline.
+
+This chart demonstrates that the current AI market is experiencing a highly stable and persistent concentration of gains in its market leader. While the Dot-com era also saw its leader (Qualcomm) vastly outperform its follower (Intel), that gap was highly unstable and volatile. Currently, Nvidia is steadily and permanently pulling further away from AMD without the extreme boom-and-bust volatility seen in the late 90s.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure4.png)
 #### ** Figure 4**: Survivors' Reflection: Past Self vs Present Self
