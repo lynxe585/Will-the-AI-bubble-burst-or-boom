@@ -19,7 +19,7 @@ These three parts a connected study of the current AI equity cycle versus fundam
 
 In the late 1990s, global markets experienced the Dot-com Bubble. Investors believed “the internet will change the world,” driving a violent rally in technology stocks, especially internet names and infrastructure players such as Cisco, Intel, Qualcomm, and the NASDAQ index. The bubble burst in 2000–2001, triggering a major correction in US equities.
 
-Under this analytical lens, we have identified eight benchmark companies AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR to test the decoupling hypothesis.
+Under this analytical lens, we have identified eight benchmark companies **AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR** to test the decoupling hypothesis.
   
 Since 2023, markets have entered an AI Boom with a very similar narrative:
 
