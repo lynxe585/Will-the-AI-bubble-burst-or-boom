@@ -256,9 +256,9 @@ All three Dot-com survivors show significantly smaller drawdowns in the AI era c
 #### **Figure 5**: Speculative Showdown  MicroStrategy (Dot-com) vs Palantir (AI Era)
 Both are enterprise data analytics companies, the "pure speculation" plays of their respective eras.
 
-Top panel, Normalized Price (Base = 100): MSTR surged to 2,000 (normalized price) around trading day 300 before collapsing below its starting price, a classic bubble-and-bust. PLTR has surpassed 3,000 (normalized price) by trading day 700 with no reversal, exceeding MSTR's peak by over 50%. Notably, PLTR's ascent has been more gradual compared to MSTR's sharp vertical spike.
+-    Top panel, Normalized Price (Base = 100): MSTR surged to 2,000 (normalized price) around trading day 300 before collapsing below its starting price, a classic bubble-and-bust. PLTR has surpassed 3,000 (normalized price) by trading day 700 with no reversal, exceeding MSTR's peak by over 50%. Notably, PLTR's ascent has been more gradual compared to MSTR's sharp vertical spike.
 
-Bottom panel,  Rolling 30-Day Annualized Volatility: MSTR's volatility spiked above 250% during both its rise and crash, and stayed elevated even after prices collapsed, a signature of post-bubble instability. PLTR maintains more contained volatility (50–120%) without this pattern, suggesting the market still holds relative confidence.
+-    Bottom panel,  Rolling 30-Day Annualized Volatility: MSTR's volatility spiked above 250% during both its rise and crash, and stayed elevated even after prices collapsed, a signature of post-bubble instability. PLTR maintains more contained volatility (50–120%) without this pattern, suggesting the market still holds relative confidence.
 
 Takeaway: PLTR has exceeded MSTR's Dot-com peak at lower volatility either reflecting stronger conviction, or a bubble that hasn't reached its breaking point yet.
 
@@ -268,9 +268,9 @@ Overlays the NASDAQ Composite from the Dot-com era (1999–2001) and the AI era 
 
 Here is the detailed breakdown of the chart’s components:
 
-First 250 days: Both eras followed nearly identical paths, rising from 100 to around 150.
-Dot-com Peak: 229  Reached around day 300, then collapsed sharply, losing over 60% from peak and falling below 90.
-AI Era Peak: 231 Reached around day 700 via a slower, more gradual climb with multiple pullbacks along the way.
+-    First 250 days: Both eras followed nearly identical paths, rising from 100 to around 150.
+-    Dot-com Peak: 229  Reached around day 300, then collapsed sharply, losing over 60% from peak and falling below 90.
+-    AI Era Peak: 231 Reached around day 700 via a slower, more gradual climb with multiple pullbacks along the way.
 Divergence after day 300: The Dot-com NASDAQ entered free fall, while the AI-era NASDAQ continued grinding higher with healthy corrections.
 
 Takeaway:
