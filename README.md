@@ -250,6 +250,7 @@ The AI-era version has surged to  normalized price 220 with only a -23.7% max dr
 Oracle was the most volatile in both eras. During the Dot-com bubble, it spiked to over normalized price 600 before crashing with a -76.8% max drawdown.
 In the AI era, Oracle has followed a similar explosive trajectory reaching  normalized price 400 before pulling back, with a notable -45.6% max drawdown  the highest among the three survivors in the current cycle.
 
+Key Takeaway:
 All three Dot-com survivors show significantly smaller drawdowns in the AI era compared to 1999–2001, suggesting stronger fundamentals today’s AI rally. However, Oracle's -45.6% drawdown stands out as a warning sign,  its speculative behavior most closely mirrors the Dot-com pattern.
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
