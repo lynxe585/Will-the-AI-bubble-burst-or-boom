@@ -188,8 +188,11 @@ The chart uses a scale where a value closer to 1 indicates a strong correlation 
 
 ## Part 2 - Overlay Analysis: Dot-com vs AI
 ### Dataset:
--    Yahoo Finance Library - Stock Price
+-    Yahoo Finance Library - Stock Price (Daily Closing Price)
 
+A defining characteristic of speculative market cycles is the recurrence of structural patterns across eras. The Dot-com Bubble (1999–2001) and the current AI-driven rally (2023–2025) share a motivation: a transformative technology attracting capital inflows that inflate valuations beyond near-term fundamental justification.
+
+This report applies an Overlay Analysis — time-aligning 752 trading days of daily closing prices from each era on a normalized index (base = 100)  to enable direct comparison side-by-side  of price trajectories between symbolic companies across both cycles (e.g., Cisco vs Nvidia). By overlapping these curves, we can visually and quantitatively assess whether the current AI rally replicates, exceeds, or or diverges from the patterns observed during the Dot-com Bubble.
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
 
