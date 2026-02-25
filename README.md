@@ -253,6 +253,16 @@ In the AI era, Oracle has followed a similar explosive trajectory reaching  norm
 Key Takeaway:
 All three Dot-com survivors show significantly smaller drawdowns in the AI era compared to 1999–2001, suggesting stronger fundamentals today’s AI rally. However, Oracle's -45.6% drawdown stands out as a warning sign,  its speculative behavior most closely mirrors the Dot-com pattern.
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure5.png)
+### **Figure 5**: Speculative Showdown  MicroStrategy (Dot-com) vs Palantir (AI Era)
+Both are enterprise data analytics companies, the "pure speculation" plays of their respective eras.
+
+Top panel, Normalized Price (Base = 100): MSTR surged to 2,000 (normalized price) around trading day 300 before collapsing below its starting price, a classic bubble-and-bust. PLTR has surpassed 3,000 (normalized price) by trading day 700 with no reversal, exceeding MSTR's peak by over 50%. Notably, PLTR's ascent has been more gradual compared to MSTR's sharp vertical spike.
+
+Bottom panel,  Rolling 30-Day Annualized Volatility: MSTR's volatility spiked above 250% during both its rise and crash, and stayed elevated even after prices collapsed, a signature of post-bubble instability. PLTR maintains more contained volatility (50–120%) without this pattern, suggesting the market still holds relative confidence.
+
+Takeaway: PLTR has exceeded MSTR's Dot-com peak at lower volatility either reflecting stronger conviction, or a bubble that hasn't reached its breaking point yet.
+
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure6.png)
 #### **Figure 6**: Market Temperature NASDAQ Dot-com vs AI Era
 Overlays the NASDAQ Composite from the Dot-com era (1999–2001) and the AI era (2023–2025), normalized to base 100 at t=0.
