@@ -221,7 +221,6 @@ The AI Era (Solid Lines): This tracks two major chipmakers in the current AI mar
 The chart visually demonstrates a recurring pattern in technology booms: a "winner-takes-most" dynamic. In both the Dot-com and AI eras, one primary hardware infrastructure company (Qualcomm then, Nvidia now) vastly outperformed its closest competitor (Intel then, AMD now). Furthermore, it shows that while both market leaders experienced explosive growth, Qualcomm's trajectory was a sharp, highly volatile spike and crash, whereas Nvidia's trajectory has been a steadier, prolonged upward climb.
 
 
-
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure3.png)
 #### **Figure 3**: The chart consists of two side-by-side area charts that measure the performance gap between the top two hardware companies in their respective technological booms
 
@@ -254,7 +253,7 @@ Key Takeaway:
 All three Dot-com survivors show significantly smaller drawdowns in the AI era compared to 1999–2001, suggesting stronger fundamentals today’s AI rally. However, Oracle's -45.6% drawdown stands out as a warning sign,  its speculative behavior most closely mirrors the Dot-com pattern.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure5.png)
-### **Figure 5**: Speculative Showdown  MicroStrategy (Dot-com) vs Palantir (AI Era)
+#### **Figure 5**: Speculative Showdown  MicroStrategy (Dot-com) vs Palantir (AI Era)
 Both are enterprise data analytics companies, the "pure speculation" plays of their respective eras.
 
 Top panel, Normalized Price (Base = 100): MSTR surged to 2,000 (normalized price) around trading day 300 before collapsing below its starting price, a classic bubble-and-bust. PLTR has surpassed 3,000 (normalized price) by trading day 700 with no reversal, exceeding MSTR's peak by over 50%. Notably, PLTR's ascent has been more gradual compared to MSTR's sharp vertical spike.
@@ -277,6 +276,7 @@ Divergence after day 300: The Dot-com NASDAQ entered free fall, while the AI-era
 Takeaway:
 Both eras reached nearly the same peak at 230 (normalized price), but the AI-era rally took twice as long to get there. The key question remains: is this the same ceiling, or does the slower ascent reflect stronger fundamentals that can push beyond the Dot-com's breaking point?
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part2/figure7.png)
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part2/figure8.png)
