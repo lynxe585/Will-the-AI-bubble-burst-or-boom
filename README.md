@@ -283,10 +283,10 @@ The Dot-com Era (Red Dashed Line): The late 90s and early 2000s market was highl
 The AI Era (Blue Solid line): The current market is behaving much more calmly.
 -    Average Volatility: The horizontal blue dotted line shows the AI era averages only 18.6% volatility less than half of the Dot-com average.
 -    The Peak: The highest point of panic in the AI occurred on April 24, 2025 reaching 60.9% volatility (with AMD hitting 112.2% individually). However, this peak was relatively brief and still much lower than the Dot-com extreme.
-=    The Trough: At its calmest point on July 31, 2025 the AI market dropped to a very stable 7.5% volatility.
+-    The Trough: At its calmest point on July 31, 2025 the AI market dropped to a very stable 7.5% volatility.
 
 
-This chart directly proves that the AI boom is taking place in a significantly more stable market environment than the Dot-com bubble. While the Dot-com era was characterized by chaotic, erratic price swings that kept investors on edge, the AI era has maintained consistently lower volatility, resulting in a much smoother and steadier ride overall  
+This chart directly proves that the AI boom is taking place in a significantly more stable market environment than the Dot-com bubble. While the Dot-com era was characterized by chaotic, erratic price swings that kept investors on edge, the AI era has maintained consistently lower volatility, resulting in a much smoother and steadier ride overall. 
 
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
