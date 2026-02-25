@@ -78,19 +78,18 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 
 ![Figure 3](./part1/figure3_msft.png)
 ##### Microsoft (MSFT)
-OpenAI & Copilot Price growth of +126.4% significantly outpaced revenue growth of +62.2%, producing a gap of +64.3%. The stock rallied sharply after the Bing AI Launch, the $10B OpenAI deal, and the Copilot 365 / Copilot Pro rollout. Revenue climbed steadily from ~$50B to ~$80B per quarter, but the stock's surge—from ~$220 to ~$510—was disproportionately driven by AI narrative momentum. This is the widest positive gap among the group, suggesting a meaningful speculative premium.
+
 
 ![Figure 3](./part1/figure3_googl.png)
 ##### Alphbet (GOOGL)
-AI Search & Cloud Price growth of +27.5% trailed revenue growth of +41.8%, yielding a gap of −14.3%. Despite launching Bard AI, Gemini AI, and Gemini 1.5, the stock recovered more slowly from its 2022 lows and experienced periodic pullbacks. Revenue expanded consistently from ~$70B to ~$95B per quarter. The negative gap indicates that Alphabet's valuation has lagged its fundamental improvement, making it one of the more conservatively priced AI beneficiaries.
+
 
 ![Figure 3](./part1/figure3_amd.png)
 ##### AMD (AMD)
-AI Chip Challenger Price growth of +20.2% lagged revenue growth of +30.5%, resulting in a gap of −10.4%. Key catalysts included the MI300 AI Chip Reveal, the Silo AI acquisition, and the MI325X Launch. Revenue grew from ~$5.5B to ~$7.5B per quarter. However, the stock spiked to ~$180 in early 2024 before retreating sharply, reflecting market skepticism about AMD's ability to challenge NVIDIA's AI GPU dominance despite solid top-line execution.
+
 
 ![Figure 3](./part1/figure3_amzn.png)
 ##### Amazon (AMZN)
-AWS Cloud AI Price growth of +34.6% was outpaced by revenue growth of +44.0%, producing a gap of −9.4%. The Anthropic $4B investment deal, Bedrock AI Launch, and Nova AI Models release marked Amazon's AI strategy milestones. Revenue scale
 
 ---
 
