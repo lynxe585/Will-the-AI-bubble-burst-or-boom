@@ -74,25 +74,27 @@ Each chart overlays quarterly stock price (line) against quarterly revenue (bars
 **Figure 3.2**: Nvidia shows a Gap of +373.0%. Its stock experienced explosive 837.0% growth, but unlike Palantir, this is backed by massive 464.0% growth in actual revenue. The chart visually demonstrates the green revenue bars growing aggressively alongside the blue stock price line. The exponential climb began precisely around the “ChatGPT Launch” and accelerated sharply following its “Record Guidance $11B”. Further massive surges in both price and revenue were driven by “GTC 2024:Blackwell” and a “10:1 Stock Split”. 
 
 ![Figure 3](./part1/figure3_orcl.png)
-##### Oracle (ORCL)
+##### **Oracle (ORCL)**
+**Figure 3.3**: Oracle shows a growing disconnect with a Gap of +256.8%. Its stock price grew by 297.1%, which significantly outpaced its revenue growth of 40.3%. The green revenue bars remain relatively flat throughout the timeline. Despite this its stock price climbed steadily, initially spurred by its “AI/Cloud Strategy” and an "NVIDIA Partnership”. The stock experienced another steep surge late in the timeline driven by an “AWS Partnership” and an “Oracle Cloud Surge”, which widened the gap between its market valuation and its actual revenue.
 
 ![Figure 3](./part1/figure3_meta.png)
-##### Meta (META)
+##### **Meta (META)**
+**Figure 3.4**: Meta shows a Gap of +163.5%. The stock price grew 233.8% compared to a much more modest revenue growth of 70.3%. The chart is unique because it starts with a severe stock price plunge in late 2022, mapped directly to its “Metaverse Losses”. The stock sharply bottomed out and began a massive, steep recovery during its declared “Year of Efficiency". The stock price continued to surge heavily upward, fueled by AI milestones like the “Llama 2 Open Source” and “Llama 3 Release”, pulling far ahead of its underlying revenue growth.
 
 ![Figure 3](./part1/figure3_msft.png)
-##### Microsoft (MSFT)
+##### **Microsoft (MSFT)**
 **Figure 3.5** Microsoft (MSFT) with Gap +64.3% (Price +126.4% vs. Revenue +62.2%) The only stock in this group with a significant positive gap. Revenue grew steadily (~$50B → ~$80B/quarter), but the stock more than doubled, fueled by the OpenAI partnership, Bing AI, and Copilot rollout. This suggests a substantial speculative premium tied to AI narrative.
 
 ![Figure 3](./part1/figure3_googl.png)
-##### Alphbet (GOOGL)
+##### **Alphbet (GOOGL)**
 **Figure 3.6** Alphabet (GOOGL) with Gap −14.3% (Price +27.5% vs. Revenue +41.8%) Revenue outpaced price appreciation despite Bard, Gemini, and Gemini 1.5 launches. Revenue climbed from ~$70B to ~$95B/quarter while the stock recovered more cautiously from 2022 lows  indicating fundamentally supported valuation.
 
 ![Figure 3](./part1/figure3_amd.png)
-##### AMD (AMD)
+##### **AMD (AMD)**
 **Figure 3.7** AMD (AMD) with a Gap 10.4% (Price +20.2% vs. Revenue +30.5%) Revenue grew from ~$5.5B to ~$7.5B/quarter, boosted by MI300/MI325X AI chip launches and the Silo AI acquisition. The stock spiked to ~$180 in early 2024 but pulled back sharply, reflecting market skepticism about competing with NVIDIA despite solid revenue execution.
 
 ![Figure 3](./part1/figure3_amzn.png)
-##### Amazon (AMZN)
+##### **Amazon (AMZN)**
 **Figure 3.7** Amazon (AMZN) with a Gap −9.4% (Price +34.6% vs. Revenue +44.0%) Revenue scaled from ~$120B to ~$175B/quarter, supported by the $4B Anthropic deal, Bedrock AI, and Nova AI Models. Price growth lagged revenue growth, pointing to fundamentally driven appreciation rather than speculation.
 
 ---
