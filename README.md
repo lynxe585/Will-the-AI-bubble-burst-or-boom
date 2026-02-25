@@ -231,7 +231,7 @@ Here is the detailed breakdown of the chart’s components:
 This chart demonstrates that the current AI market is experiencing a highly stable and persistent concentration of gains in its market leader. While the Dot-com era also saw its leader (Qualcomm) vastly outperform its follower (Intel), that gap was highly unstable and volatile. Currently, Nvidia is steadily and permanently pulling further away from AMD without the extreme boom-and-bust volatility seen in the late 90s.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure4.png)
-#### ** Figure 4**: Survivors' Reflection: Past Self vs Present Self
+#### **Figure 4**: Survivors' Reflection: Past Self vs Present Self
 Compares the stock price trajectories of three Dot-com era survivors including  Amazon (AMZN), Microsoft (MSFT) and Oracle (ORCL) across two periods; Dot-com bubble (1999–2001) and the AI era (2023–2025). All prices are normalized to 100 at t=0 allowing a direct overlay comparison of price behavior over 750 trading days.
 
 Here is the detailed breakdown of the chart’s components:
