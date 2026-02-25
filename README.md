@@ -62,7 +62,8 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 
 ---
 
-#### Individual Company Timelines and Key AI Events
+#### Figure3: Individual Company Timelines and Key AI Events by using  Stock Price vs. Revenue Growth 
+Each chart overlays quarterly stock price (line) against quarterly revenue (bars) from Q1 2022 through Q2 2025, with key AI milestones annotated. The Gap metric (Price Growth − Revenue Growth) indicates whether the stock is trading on speculation or fundamentals.
 
 ![Figure 3](./part1/figure3_pltr.png)
 ##### Palantir (PLTR)
