@@ -194,6 +194,8 @@ A defining characteristic of speculative market cycles is the recurrence of stru
 
 This report applies an Overlay Analysis — time-aligning 752 trading days of daily closing prices from each era on a normalized index (base = 100)  to enable direct comparison side-by-side  of price trajectories between symbolic companies across both cycles (e.g., Cisco vs Nvidia). By overlapping these curves, we can visually and quantitatively assess whether the current AI rally replicates, exceeds, or or diverges from the patterns observed during the Dot-com Bubble.
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure3.png)
+
 ## Part 3 - AI Market “Weight & Impact” Analysis
 
 ## Conclusion
