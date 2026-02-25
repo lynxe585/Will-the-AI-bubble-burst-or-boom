@@ -70,7 +70,8 @@ Each chart overlays quarterly stock price (line) against quarterly revenue (bars
 **Figure 3.1**: Palantir exhibits extreme speculation with a Gap of +768.0%. Its stock price skyrocketed by an incredible 892.9%, while its actual revenue grew by a much smaller 124.9%. It shows stock price hovering at a relatively low, flat level until mid-2023. The initial upward trend began with its “AIP Platform Launch” and “First Profitable Q”. From there, the stock price went nearly vertical following “AIP Bootcamps” and its “S&P 500 Entry”, completely detaching from the slow, steady growth of its green revenue bars.
 
 ![Figure 3](./part1/figure3_nvda.png)
-##### Nvidia (NVDA)
+##### **Nvidia (NVDA)**
+**Figure 3.2**: Nvidia shows a Gap of +373.0%. Its stock experienced explosive 837.0% growth, but unlike Palantir, this is backed by massive 464.0% growth in actual revenue. The chart visually demonstrates the green revenue bars growing aggressively alongside the blue stock price line. The exponential climb began precisely around the “ChatGPT Launch” and accelerated sharply following its “Record Guidance $11B”. Further massive surges in both price and revenue were driven by “GTC 2024:Blackwell” and a “10:1 Stock Split”. 
 
 ![Figure 3](./part1/figure3_orcl.png)
 ##### Oracle (ORCL)
