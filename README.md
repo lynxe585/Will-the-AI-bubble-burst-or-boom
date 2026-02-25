@@ -1,5 +1,5 @@
 
-# Will the AI bubble burst or boom?
+# Will the AI bubble burst or boom? 
 
     
    >Disclaimer: This analysis is for educational and insight purposes only. It is not investment advice.
