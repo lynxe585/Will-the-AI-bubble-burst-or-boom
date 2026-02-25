@@ -277,6 +277,17 @@ Takeaway:
 Both eras reached nearly the same peak at 230 (normalized price), but the AI-era rally took twice as long to get there. The key question remains: is this the same ceiling, or does the slower ascent reflect stronger fundamentals that can push beyond the Dot-com's breaking point?
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part2/figure7.png)
+#### **Figure 7**: Overlay Summary — How High Did Each Stock Fly?
+Peak price multipliers from rally start, Dot-com (1999–2001) vs AI era (2023–2025):
+
+-    Poster Child: NVDA peaked at 14.5x, dwarfing CSCO's 3.4x — the AI flagship rallied over 4x harder.
+-    Infra Leader: The only category where Dot-com wins. JDSU hit 25.9x vs AVGO's 14.5x.
+-    Infra Follower: AMD (4.1x) modestly exceeds QCOM (2.5x) — both relatively restrained.
+-    Survivors (AMZN, MSFT, ORCL): Similar 1.8–6.5x ranges in both eras — fundamentals-driven stocks stay grounded regardless of surrounding hype.
+-    Speculative: PLTR (32.4x) surpasses MSTR (20.7x) by over 50% — the AI era's speculative frenzy runs even hotter.
+-    NASDAQ Index: Identical 2.3x gains in both eras despite wildly different stock-level behavior.
+
+Takeaway: AI-era stocks fly higher than their Dot-com peers, yet the index gained the same — the rally is more concentrated in fewer names this time.
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part2/figure8.png)
