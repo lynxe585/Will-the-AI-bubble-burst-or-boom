@@ -194,6 +194,17 @@ A defining characteristic of speculative market cycles is the recurrence of stru
 
 This report applies an Overlay Analysis — time-aligning 752 trading days of daily closing prices from each era on a normalized index (base = 100)  to enable direct comparison side-by-side  of price trajectories between symbolic companies across both cycles (e.g., Cisco vs Nvidia). By overlapping these curves, we can visually and quantitatively assess whether the current AI rally replicates, exceeds, or or diverges from the patterns observed during the Dot-com Bubble.
 
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/1ed1e2664d1dcf29a8136452495a77118d8b4945/part2/figure1.png)
+#### **Figure 1**: The chart compares the stock performance of the defining companies from two major technological booms 
+
+Here is the detailed breakdown of the chart’s components: 
+-    The chart tracks the Normalized Price (Base = 100) over approximately 750 trading days, allowing for a direct “apples-to-apples” comparison of their growth trajectories from an equal starting baseline.
+-    Cisco (CSCO:Red Line) represents stock from 1999 to 2001. It illustrates the classic bubble trajectory: a steady rise to a peak normalized price of 336, followed by a steep crash where the stock eventually falls back below the original 100 baseline. 
+-    Nvidia (NVDA:Blue Line) represents stock from 2023 to 2025. It shows a much more explosive, prolonged and volatile upward climb, ultimately reaching a massive peak of 1,448. 
+
+While both companies were the superstars of their eras, the chart shows that Nvidia’s growth during the AI boom is much, much bigger than Cisco’s growth was during the internet boom.
+
+
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/aa710df5f5561a095199c1dfe1f12a3a5bbbc115/part2/figure3.png)
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
