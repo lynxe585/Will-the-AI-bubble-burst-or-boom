@@ -66,7 +66,8 @@ Fundamentally Driven (Green bars): Three companies have seen their revenue outpa
 Each chart overlays quarterly stock price (line) against quarterly revenue (bars) from Q1 2022 through Q2 2025, with key AI milestones annotated. The Gap metric (Price Growth − Revenue Growth) indicates whether the stock is trading on speculation or fundamentals.
 
 ![Figure 3](./part1/figure3_pltr.png)
-##### Palantir (PLTR)
+##### **Palantir (PLTR)**
+**Figure 3.1**: Palantir exhibits extreme speculation with a Gap of +768.0%. Its stock price skyrocketed by an incredible 892.9%, while its actual revenue grew by a much smaller 124.9%. It shows stock price hovering at a relatively low, flat level until mid-2023. The initial upward trend began with its “AIP Platform Launch” and “First Profitable Q”. From there, the stock price went nearly vertical following “AIP Bootcamps” and its “S&P 500 Entry”, completely detaching from the slow, steady growth of its green revenue bars.
 
 ![Figure 3](./part1/figure3_nvda.png)
 ##### Nvidia (NVDA)
