@@ -233,7 +233,7 @@ This chart demonstrates that the current AI market is experiencing a highly stab
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure4.png)
 #### ** Figure 4**: Survivors' Reflection: Past Self vs Present Self
-compares the stock price trajectories of three Dot-com era survivors including  Amazon (AMZN), Microsoft (MSFT) and Oracle (ORCL) across two periods; Dot-com bubble (1999–2001) and the AI era (2023–2025). All prices are normalized to 100 at t=0 allowing a direct overlay comparison of price behavior over 750 trading days.
+Compares the stock price trajectories of three Dot-com era survivors including  Amazon (AMZN), Microsoft (MSFT) and Oracle (ORCL) across two periods; Dot-com bubble (1999–2001) and the AI era (2023–2025). All prices are normalized to 100 at t=0 allowing a direct overlay comparison of price behavior over 750 trading days.
 
 Here is the detailed breakdown of the chart’s components:
 
@@ -252,6 +252,24 @@ In the AI era, Oracle has followed a similar explosive trajectory reaching  norm
 
 Key Takeaway:
 All three Dot-com survivors show significantly smaller drawdowns in the AI era compared to 1999–2001, suggesting stronger fundamentals today’s AI rally. However, Oracle's -45.6% drawdown stands out as a warning sign,  its speculative behavior most closely mirrors the Dot-com pattern.
+
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure4.png)
+#### **Figure 5**: Market Temperature NASDAQ Dot-com vs AI Era
+Overlays the NASDAQ Composite from the Dot-com era (1999–2001) and the AI era (2023–2025), normalized to base 100 at t=0.
+
+Here is the detailed breakdown of the chart’s components:
+
+First 250 days: Both eras followed nearly identical paths, rising from 100 to around 150.
+Dot-com Peak: 229  Reached around day 300, then collapsed sharply, losing over 60% from peak and falling below 90.
+AI Era Peak: 231 Reached around day 700 via a slower, more gradual climb with multiple pullbacks along the way.
+Divergence after day 300: The Dot-com NASDAQ entered free fall, while the AI-era NASDAQ continued grinding higher with healthy corrections.
+
+Takeaway:
+Both eras reached nearly the same peak at 230 (normalized price), but the AI-era rally took twice as long to get there. The key question remains: is this the same ceiling, or does the slower ascent reflect stronger fundamentals that can push beyond the Dot-com's breaking point?
+
+
+
+
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
 
