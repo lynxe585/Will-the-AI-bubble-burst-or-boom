@@ -187,6 +187,8 @@ The chart uses a scale where a value closer to 1 indicates a strong correlation 
 
 
 ## Part 2 - Overlay Analysis: Dot-com vs AI
+### Dataset:
+-    Yahoo Finance Library - Stock Price
 
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
