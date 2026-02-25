@@ -4,7 +4,7 @@
     
    >Disclaimer: This analysis is for educational and insight purposes only. It is not investment advice.
 
-### Overview
+### Content
 These three parts a connected study of the current AI equity cycle versus fundamentals and history:
 
 -	[**Part 1**](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/tree/main?tab=readme-ov-file#part-1---ai-bubble-analysis-price-vs-reality-check): Are AI stock prices outrunning their fundamentals (Revenue)?
