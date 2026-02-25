@@ -94,6 +94,7 @@ Each chart overlays quarterly stock price (line) against quarterly revenue (bars
 ![Figure 3](./part1/figure3_amzn.png)
 ##### Amazon (AMZN)
 **Figure 3.7** Amazon (AMZN) with a Gap −9.4% (Price +34.6% vs. Revenue +44.0%) Revenue scaled from ~$120B to ~$175B/quarter, supported by the $4B Anthropic deal, Bedrock AI, and Nova AI Models. Price growth lagged revenue growth, pointing to fundamentally driven appreciation rather than speculation.
+
 ---
 
 ![Figure 4](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure4.png)
