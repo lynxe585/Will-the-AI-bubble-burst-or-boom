@@ -253,7 +253,7 @@ In the AI era, Oracle has followed a similar explosive trajectory reaching  norm
 Key Takeaway:
 All three Dot-com survivors show significantly smaller drawdowns in the AI era compared to 1999–2001, suggesting stronger fundamentals today’s AI rally. However, Oracle's -45.6% drawdown stands out as a warning sign,  its speculative behavior most closely mirrors the Dot-com pattern.
 
-![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure4.png)
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a38e78f252e6acc20dd79369497c2dc8eabcf4f6/part2/figure5.png)
 #### **Figure 5**: Market Temperature NASDAQ Dot-com vs AI Era
 Overlays the NASDAQ Composite from the Dot-com era (1999–2001) and the AI era (2023–2025), normalized to base 100 at t=0.
 
