@@ -451,7 +451,7 @@ A crash simulation makes the stakes crystal clear: if AI stocks dropped 50% alon
 
 > **The AI boom is real, but so is the bubble — they just aren't in the same stocks.**
 
-NVIDIA, Microsoft, Alphabet, and Amazon are generating tangible, growing revenue that validates their elevated valuations. But Palantir and Oracle carry speculative premiums that far exceed what their earnings can support — mirroring, and in some cases surpassing, the excesses of the Dot-com era.
+NVIDIA, Microsoft, Alphabet, and Amazon are generating tangible, growing revenue that validates their elevated valuations. But Palantir and Oracle carry speculative premiums that far exceed what their earnings can support mirroring, and in some cases surpassing, the excesses of the Dot-com era.
 
-The greatest risk is not whether AI fails as a technology. It is that **the market's unprecedented concentration in so few names** leaves the entire financial system dangerously exposed to a shift in sentiment — even if the technology behind it all continues to thrive.
+The greatest risk is not whether AI fails as a technology. It is that **the market's unprecedented concentration in so few names** leaves the entire financial system dangerously exposed to a shift in sentiment, even if the technology behind it all continues to thrive.
 
