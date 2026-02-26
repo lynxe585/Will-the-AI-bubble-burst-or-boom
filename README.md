@@ -12,6 +12,8 @@ These three parts a connected study of the current AI equity cycle versus fundam
 -	[**Part 3**](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/tree/main?tab=readme-ov-file#part-3---ai-market-weight--impact-analysis): How big is the AI complex inside the S&P 500, how is broad is the rally, and what if AI crashed?
 -    [**Conclusion**](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/tree/main?tab=readme-ov-file#conclusion) 
 
+---
+
 ## An introduction: From the Dot-com Era to the AI Era 
 
 
