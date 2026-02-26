@@ -449,7 +449,7 @@ A crash simulation makes the stakes crystal clear: if AI stocks dropped 50% alon
 
 ### What This Tells Us
 
-> **The AI boom is real, but so is the bubble — they just aren't in the same stocks.**
+> **The AI boom is real, but so is the bubble, they just aren't in the same stocks.**
 
 NVIDIA, Microsoft, Alphabet, and Amazon are generating tangible, growing revenue that validates their elevated valuations. But Palantir and Oracle carry speculative premiums that far exceed what their earnings can support mirroring, and in some cases surpassing, the excesses of the Dot-com era.
 
