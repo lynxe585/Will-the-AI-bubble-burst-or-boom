@@ -447,7 +447,7 @@ A crash simulation makes the stakes crystal clear: if AI stocks dropped 50% alon
 
 ---
 
-### The Verdict
+### What This Tells Us
 
 > **The AI boom is real, but so is the bubble — they just aren't in the same stocks.**
 
