@@ -346,14 +346,9 @@ Here is the detailed breakdown of the chart's components:
 
 -    Left Panel (Horizontal Bar Chart) - Displays the individual market cap and S&P 500 weight of each AI stock, ranked from largest to smallest: NVDA ($4.57T, 9.1%), GOOGL ($3.80T, 7.6%), MSFT ($3.62T, 7.2%), AMZN ($2.49T, 5.0%), META ($1.68T, 3.4%), ORCL ($0.57T, 1.1%), PLTR ($0.43T, 0.9%), and AMD ($0.35T, 0.7%).
 
--    Right Panel (Donut Chart) - Shows the aggregate picture: these 8 AI stocks hold 35.0% of the S&P 500, while the remaining ~492 companies share the other 65.0%.
+-    Right Panel (Donut Chart) - Shows the aggregate picture: these 8 AI stocks hold 35.0% of the S&P 500, while the remaining 492 companies share the other 65.0%.
 
--    Top 3 Dominance - NVIDIA, Alphabet, and Microsoft alone account for ~24% of the index. Nearly a quarter of the S&P 500 is driven by just three AI mega-caps.
-
--    Mega-Cap Gap - There is a steep drop-off between the top 5 stocks (each above $1.5T) and the bottom 3 (all below $0.6T), showing that concentration is heavily skewed even within the AI theme itself.
-
--    temic Risk - If these 8 stocks were to decline by 50%, the S&P 500 would automatically lose ~17.5% of its value — even if every other stock remained flat. A correction in AI is effectively a correction for the entire market.
-
+-    Top 3 Dominance - NVIDIA, Alphabet, and Microsoft alone account for 24% of the index. Nearly a quarter of the S&P 500 is driven by just three AI mega-caps.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure2.png)
 #### **figure 2**:
