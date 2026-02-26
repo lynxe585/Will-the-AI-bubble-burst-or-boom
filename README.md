@@ -361,7 +361,22 @@ Here is the detailed breakdown of the chart's components:
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure3.png)
-#### **figure 3**:
+#### **figure 3**: The chart illustrates the massive outperformance of a select group of AI stock compared to the broader market between early 2023 and early 2026
+
+Here is the detailed breakdown of the chart’s components: 
+1. Cumulative Return Comparison (Top Chart) This chart tracks the percentage growth over time, highlighting a stark contrast in performance:
+- AI 8 Stocks (Avg): the solid red line shows these eight stocks achieved a staggering +661.8% cumulative return.
+- S&P 500 (Market Cap Weighted): The dashed yellow line shows the standard S&P 500 returned +80.3%
+- S&P 500 (Equal Weight): The dashed dot blue line shows that an equal-weight version of the S&P 500 only returned +36.6%, indicating that without the heavy influence of the largest companies, the broader market’s growth was relatively modest.
+- The large pink shaded region between the AI stocks and the S&P 500 lines represents the "AI Outperformance Gap".
+
+2. The Outperformance Gap (Bottom Chart) This section isolates the difference between the high-flying AI stocks and the average stock in the market.
+- The chart plots the growing spread in percentage points (pp) over the three-year period, shaded in pink to denote "AI Leading"
+- A key marker on the chart highlights that this performance gap reached an extreme of +625 percentage points near the end of the timeline.
+
+This chart visually demonstrates that a handful of AI stocks have been almost entirely responsible for "carrying" the market's strong recent performance, vastly outpacing the rest of the companies in the S&P 500.
+
+
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure4.png)
