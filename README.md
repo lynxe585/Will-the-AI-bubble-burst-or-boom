@@ -338,6 +338,7 @@ However, this unprecedented concentration introduces a significant systemic vuln
 
 Ultimately, while the AI revolution has generated wealth on the scale of sovereign nations, it has also created a highly fragile, top-heavy market where the fate of the broader economy is tied to the performance of just eight stocks.
 
+
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure1.png)
 #### **figure 1**: AI Concentration in the S&P 500
 As of December 30, 2025, just 8 AI stocks collectively represent 35% of the S&P 500's total market capitalization — approximately $17.5 trillion out of an estimated $50 trillion. This figure highlights an extreme level of market concentration, where a single investment theme dominates over one-third of America's most important stock index.
@@ -350,8 +351,20 @@ Here is the detailed breakdown of the chart's components:
 
 -    Top 3 Dominance - NVIDIA, Alphabet, and Microsoft alone account for 24% of the index. Nearly a quarter of the S&P 500 is driven by just three AI mega-caps.
 
+
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure2.png)
-#### **figure 2**:
+#### **figure 2**: GDP Reality Check: AI 8 Stocks vs. Major Economies
+Compares the $17.50 trillion combined market cap of the 8 AI stocks against the GDP of major world economies (2024 data), asking a simple question: How does the market value of just 8 companies stack up against the economic output of entire nations?
+
+Here is the detailed breakdown of the chart's components:
+
+-    Horizontal Bar Chart - Ranks 5 national GDPs alongside the AI 8 Stocks' combined market cap, with the AI bar visually highlighted to separate it from real economies.
+
+-    Only 2 countries exceed the AI 8 - The United States ($28.75T) and China ($18.74T) are the only economies whose GDP surpasses the combined valuation of these 8 stocks.
+
+-    AI 8 Stocks ($17.50T) - Ranked third overall, their market cap is larger than the GDP of Germany ($4.69T), the United Kingdom ($3.69T), and Thailand ($0.53T) combined.
+
+-    The Core Question - Market cap reflects what investors believe a company is worth based on future expectations, while GDP measures actual economic output. When 8 stocks are valued higher than most G7 economies, it raises a critical question: Are these valuations grounded in reality, or driven by speculative euphoria?
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure3.png)
