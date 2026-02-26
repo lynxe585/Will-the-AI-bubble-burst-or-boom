@@ -39,6 +39,8 @@ This project approaches those questions from a perspective along three main axes
   
 Under this analytical lens, we have identified eight benchmark companies **AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR** to test the decoupling hypothesis.
 
+---
+
 ## Part 1 - AI Bubble Analysis (Price vs Reality Check)
 ### Dataset:
 -    Yahoo Finance Library - Stock Price
@@ -320,6 +322,7 @@ This chart directly proves that the AI boom is taking place in a significantly m
 
 -    Same Market Return, Different Story Despite far higher individual stock gains, the NASDAQ delivered an identical 2.3× return in both eras. The AI rally is concentrated in fewer names — unlike the Dot-com boom which lifted the broader market. If the handful of AI leaders stumble, the index-level impact could be outsized.
 
+---
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
 ### Dataset: 
@@ -419,13 +422,14 @@ AI Market "Weight & Impact" Analysis reveals the systemic risk that AI stocks po
 -    Third, a market breadth analysis shows that the AI 8 have returned +661.8% since early 2023 while the average S&P 500 stock returned only +36.6% meaning the index's headline gains are almost entirely carried by a handful of names.
 -    Finally, a crash simulation demonstrates that a 50% decline in AI stocks alone would drag the S&P 500 down by 17.5%, pushing the index from 6,896 to 5,689 reading to AI bubble signal.
 
+---
    
 ## Conclusion
 If you ask "Will the AI bubble burst or boom?"  the most honest answer is **both are happening at the same time, just not in the same stocks.**
 
 All three parts of this project point in the same direction: the AI era is not a bubble inflating equally everywhere. It is a market **fractured from within** on one side, genuine growth backed by real earnings; on the other, speculation that has outrun reality by a wide margin.
 
----
+
 
 ### Price vs. Reality: Who's Standing on Solid Ground and Who's Floating in Mid-Air?
 
@@ -445,7 +449,7 @@ The most sobering numbers lie in the final part of the analysis just **8 AI stoc
 
 A crash simulation makes the stakes crystal clear: if AI stocks dropped 50% alone, it would drag the entire S&P 500 down by **17.5%**, erasing over **1,200 points** that is the price of an entire financial system hanging on the shoulders of just a few names.
 
----
+
 
 ### What This Tells Us
 
