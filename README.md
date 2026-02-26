@@ -423,7 +423,7 @@ AI Market "Weight & Impact" Analysis reveals the systemic risk that AI stocks po
 ## Conclusion
 If you ask "Will the AI bubble burst or boom?"  the most honest answer is **both are happening at the same time, just not in the same stocks.**
 
-All three parts of this project point in the same direction: the AI era is not a bubble inflating equally everywhere. It is a market **fractured from within** — on one side, genuine growth backed by real earnings; on the other, speculation that has outrun reality by a wide margin.
+All three parts of this project point in the same direction: the AI era is not a bubble inflating equally everywhere. It is a market **fractured from within** on one side, genuine growth backed by real earnings; on the other, speculation that has outrun reality by a wide margin.
 
 ---
 
