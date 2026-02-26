@@ -340,20 +340,21 @@ Crash Simulation - modeling hypothetical scenarios (−30 %, −50 %, −70 % de
 By combining these perspectives, we can quantitatively assess how concentrated, inflated, and fragile the current AI-driven market really is.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure1.png)
-
+#### **figure 1**:
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure2.png)
-
+#### **figure 2**:
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure3.png)
-
+#### **figure 3**:
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure4.png)
+#### **figure 4**:
 
-
+### Summary
 
 ## Conclusion
 
