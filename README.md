@@ -412,7 +412,13 @@ This chart demonstrates the broader market's vulnerability to a downturn in AI s
 
 
 ### Summary
+AI Market "Weight & Impact" Analysis reveals the systemic risk that AI stocks pose to the U.S. market through four progressive lenses.
 
+-    first, just 8 AI stocks (NVDA, GOOGL, MSFT, AMZN, META, ORCL, PLTR, AMD) now account for 35% of the S&P 500's total market cap (~$17.5T out of ~$50T).
+-    second, this $17.5T valuation is larger than the GDP of every country except the U.S. and China, raising serious questions about whether these prices are grounded in reality.
+-    third, a market breadth analysis shows that the AI 8 have returned +661.8% since early 2023 while the average S&P 500 stock returned only +36.6% meaning the index's headline gains are almost entirely carried by a handful of names; and finally, a crash simulation demonstrates that a 50% decline in AI stocks alone would drag the S&P 500 down by -17.5%, pushing the index from 6,896 to 5,689 reading to AI bubble signal.
+
+   
 ## Conclusion
 
 
