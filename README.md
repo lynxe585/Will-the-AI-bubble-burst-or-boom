@@ -332,7 +332,9 @@ Over the past three years, the explosive growth of artificial intelligence hasn'
 
 Beneath the surface of record-breaking index highs lies a story of unprecedented concentration. Today, a mere handful of tech giants have amassed a level of wealth that rivals the entire economic output of major sovereign nations. But this historic surge masks a critical question: is the broader market truly thriving, or is it simply being carried by a top-heavy, fragile tier?
 
-To truly grasp the scale of this tech dominance, and the systemic vulnerabilities it creates, we need to look beyond the headlines. The following visual breakdown strips away the noise, mapping out exactly how heavily the global economy now leans on just eight companies, and what might happen if that foundation cracks. Let’s dive into the data.
+To truly grasp the scale of this tech dominance, and the systemic vulnerabilities it creates, we need to look beyond the headlines. The following visual breakdown strips away the noise, mapping out exactly how heavily the global economy now leans on just eight companies, and what might happen if that foundation cracks.
+
+Next, we will demonstrate the visualizations derived from the analysis of the available dataset.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure1.png)
 #### **figure 1**: AI Concentration in the S&P 500
