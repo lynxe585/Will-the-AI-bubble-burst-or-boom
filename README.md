@@ -322,6 +322,38 @@ This chart directly proves that the AI boom is taking place in a significantly m
 
 
 ## Part 3 - AI Market “Weight & Impact” Analysis
+### Dataset: 
+-    Yahoo Finance Library - Stock Price (Daily Closing Price)
+-    Market Capitalization
+-    S&P 500 Index (^GSPC)
+-    S&P 500 Equal Weight Index
+
+Beyond comparing price trajectories between eras, a critical next question is: how large and systemically important are today's AI-driven companies within the broader market? If a handful of stocks account for a disproportionate share of the S&P 500's total market capitalization, any sharp correction in those names could drag the entire index into deeply negative territory, a concentration risk that eerily echoes past bubble collapses.
+
+This report applies a Weight & Impact Analysis examining the 8 symbolic AI stocks (NVDA, AMD, AMZN, GOOGL, META, MSFT, ORCL, PLTR) across four dimensions:
+
+Weight Analysis - quantifying their combined share of the S&P 500's ~$50 trillion market cap.
+GDP Reality Check - comparing their collective valuation against the GDP of major world economies to assess whether current prices are anchored in economic reality.
+Market Breadth Analysis - contrasting the market-cap-weighted S&P 500 against its equal-weight counterpart to determine whether the rally is broad-based or dangerously narrow.
+Crash Simulation - modeling hypothetical scenarios (−30 %, −50 %, −70 % declines in AI names) to estimate the resulting impact on the S&P 500.
+
+By combining these perspectives, we can quantitatively assess how concentrated, inflated, and fragile the current AI-driven market really is.
+
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure1.png)
+
+
+
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure2.png)
+
+
+
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure3.png)
+
+
+
+![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure4.png)
+
+
 
 ## Conclusion
 
