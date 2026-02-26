@@ -380,11 +380,36 @@ Here is the detailed breakdown of the chart’s components:
 
 This chart visually demonstrates that a handful of AI stocks have been almost entirely responsible for "carrying" the market's strong recent performance, vastly outpacing the rest of the companies in the S&P 500.
 
+To understand the true gravity of the risk levels shown in the bar chart (Figure 4), we must look at the underlying stress test data in our crash simulation table.
+
+| Scenario | AI Drop | S&P Impact | Points Lost | New Level |
+|----------|---------|------------|-------------|-----------|
+| Minor Correction | -10% | -3.50% | -241 | 6,655 |
+| Correction | -20% | -7.00% | -483 | 6,413 |
+| Bear Market | -30% | -10.50% | -724 | 6,172 |
+| Severe Bear | -40% | -14.00% | -966 | 5,931 |
+| Bubble Burst | -50% | -17.50% | -1,207 | 5,689 |
+
+This table reveals the root cause of the projected drops. Because the AI sector now commands an overwhelming 35.0% weight in the market, a mere -10% drop in AI stocks—a minor correction—is enough to instantly wipe 241 points off the S&P 500. Furthermore, if we face a catastrophic 'Bubble Burst' where AI stocks lose 50% of their value, the broader market would hemorrhage a staggering 1,207 points, dragging the index down to 5,689. This simulation is empirical proof that the modern market's survival is entirely tethered to the fate of a single, highly concentrated sector.
+
 
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure4.png)
-#### **figure 4**:
+#### **figure 4**: The chart illustrates how different levels of a hypothetical crash in AI stocks would impact the broader S&P 500 index.
+
+Here is a detailed breakdown of the chart's components:
+1. The Baseline:
+-    A horizontal dashed yellow line across the top represents the Current S&P 500 level at 6,896. All scenarios are measured as a drop from this peak.
+2. The chart outlines five distinct scenarios, progressively getting worse from left to right. The solid bars (which transition from orange to dark red to show increasing severity) represent the new projected level of the S&P 500, while the light pink shaded area above each bar shows the size of the drop from the current level:
+-    Minor Correction: The index drops by -3.5% to a level of 6,655.
+-    Correction: The index drops by -7.0% to a level of 6,413.
+-    Bear Market: The index drops by -10.5% to a level of 6,172.
+-    Severe Bear: The index drops by -14.0% to a level of 5,931.
+-    Bubble Burst: In the most extreme scenario depicted, the index drops by -17.5% to a level of 5,689.
+
+This chart demonstrates the broader market's vulnerability to a downturn in AI stocks, quantifying exactly how much the S&P 500 would retract under various crash severities.
+
 
 ### Summary
 
