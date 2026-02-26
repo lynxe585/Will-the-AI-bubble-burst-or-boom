@@ -328,16 +328,15 @@ This chart directly proves that the AI boom is taking place in a significantly m
 -    S&P 500 Index (^GSPC)
 -    S&P 500 Equal Weight Index
 
-Beyond comparing price trajectories between eras, a critical next question is: how large and systemically important are today's AI-driven companies within the broader market? If a handful of stocks account for a disproportionate share of the S&P 500's total market capitalization, any sharp correction in those names could drag the entire index into deeply negative territory, a concentration risk that eerily echoes past bubble collapses.
+Over the past three years, the financial markets have been fundamentally reshaped by the explosive growth of the artificial intelligence sector. Today, just eight major AI-focused companies—NVDA, GOOGL, MSFT, AMZN, META, ORCL, PLTR, and AMD—command a staggering combined market capitalization of $17.5 trillion, effectively swallowing up 35.0% of the entire S&P 500.
 
-This report applies a Weight & Impact Analysis examining the 8 symbolic AI stocks (NVDA, AMD, AMZN, GOOGL, META, MSFT, ORCL, PLTR) across four dimensions:
+To put this immense concentration of wealth into perspective, the valuation of these eight companies now exceeds the 2024 Gross Domestic Product (GDP) of major global economies, including Germany, the United Kingdom, and Thailand.
 
-Weight Analysis - quantifying their combined share of the S&P 500's ~$50 trillion market cap.
-GDP Reality Check - comparing their collective valuation against the GDP of major world economies to assess whether current prices are anchored in economic reality.
-Market Breadth Analysis - contrasting the market-cap-weighted S&P 500 against its equal-weight counterpart to determine whether the rally is broad-based or dangerously narrow.
-Crash Simulation - modeling hypothetical scenarios (−30 %, −50 %, −70 % declines in AI names) to estimate the resulting impact on the S&P 500.
+This historical top-heaviness is the direct result of a massive outperformance gap. From early 2023 to early 2026, these eight AI stocks generated an average cumulative return of +661.8%, single-handedly "carrying" the broader market. Without their influence, the equal-weighted S&P 500 returned a comparatively modest +36.6% over the same period, highlighting that the vast majority of companies have been left behind in the AI boom.
 
-By combining these perspectives, we can quantitatively assess how concentrated, inflated, and fragile the current AI-driven market really is.
+However, this unprecedented concentration introduces a significant systemic vulnerability. Because the market's recent success is so heavily reliant on a few tech giants, a potential correction in AI stocks would have devastating ripple effects. Scenario analyses suggest that if the AI market were to experience a "Bubble Burst," the S&P 500 could plunge by 17.5%, erasing massive gains and dragging the index down from 6,896 to 5,689.
+
+Ultimately, while the AI revolution has generated wealth on the scale of sovereign nations, it has also created a highly fragile, top-heavy market where the fate of the broader economy is tied to the performance of just eight stocks.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure1.png)
 #### **figure 1**: AI Concentration in the S&P 500
