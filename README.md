@@ -342,11 +342,11 @@ As of December 30, 2025, just 8 AI stocks collectively represent 35% of the S&P 
 
 Here is the detailed breakdown of the chart's components:
 
--    Left Panel (Horizontal Bar Chart) - Displays the individual market cap and S&P 500 weight of each AI stock, ranked from largest to smallest: NVDA ($4.57T, 9.1%), GOOGL ($3.80T, 7.6%), MSFT ($3.62T, 7.2%), AMZN ($2.49T, 5.0%), META ($1.68T, 3.4%), ORCL ($0.57T, 1.1%), PLTR ($0.43T, 0.9%), and AMD ($0.35T, 0.7%).
+-    Left Panel (Horizontal Bar Chart): Displays the individual market cap and S&P 500 weight of each AI stock, ranked from largest to smallest: NVDA ($4.57T, 9.1%), GOOGL ($3.80T, 7.6%), MSFT ($3.62T, 7.2%), AMZN ($2.49T, 5.0%), META ($1.68T, 3.4%), ORCL ($0.57T, 1.1%), PLTR ($0.43T, 0.9%), and AMD ($0.35T, 0.7%).
 
--    Right Panel (Donut Chart) - Shows the aggregate picture: these 8 AI stocks hold 35.0% of the S&P 500, while the remaining 492 companies share the other 65.0%.
+-    Right Panel (Donut Chart): Shows the aggregate picture: these 8 AI stocks hold 35.0% of the S&P 500, while the remaining 492 companies share the other 65.0%.
 
--    Top 3 Dominance - NVIDIA, Alphabet, and Microsoft alone account for 24% of the index. Nearly a quarter of the S&P 500 is driven by just three AI mega-caps.
+-    Top 3 Dominance: NVIDIA, Alphabet, and Microsoft alone account for 24% of the index. Nearly a quarter of the S&P 500 is driven by just three AI mega-caps.
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure2.png)
@@ -355,13 +355,13 @@ Compares the $17.50 trillion combined market cap of the 8 AI stocks against the 
 
 Here is the detailed breakdown of the chart's components:
 
--    Horizontal Bar Chart - Ranks 5 national GDPs alongside the AI 8 Stocks' combined market cap, with the AI bar visually highlighted to separate it from real economies.
+-    Horizontal Bar Chart: Ranks 5 national GDPs alongside the AI 8 Stocks' combined market cap, with the AI bar visually highlighted to separate it from real economies.
 
--    Only 2 countries exceed the AI 8 - The United States ($28.75T) and China ($18.74T) are the only economies whose GDP surpasses the combined valuation of these 8 stocks.
+-    Only 2 countries exceed the AI 8: The United States ($28.75T) and China ($18.74T) are the only economies whose GDP surpasses the combined valuation of these 8 stocks.
 
--    AI 8 Stocks ($17.50T) - Ranked third overall, their market cap is larger than the GDP of Germany ($4.69T), the United Kingdom ($3.69T), and Thailand ($0.53T) combined.
+-    AI 8 Stocks ($17.50T): Ranked third overall, their market cap is larger than the GDP of Germany ($4.69T), the United Kingdom ($3.69T), and Thailand ($0.53T) combined.
 
--    The Core Question - Market cap reflects what investors believe a company is worth based on future expectations, while GDP measures actual economic output. When 8 stocks are valued higher than most G7 economies, it raises a critical question: Are these valuations grounded in reality, or driven by speculative euphoria?
+-    The Core Question: Market cap reflects what investors believe a company is worth based on future expectations, while GDP measures actual economic output. When 8 stocks are valued higher than most G7 economies, it raises a critical question: Are these valuations grounded in reality, or driven by speculative euphoria?
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure3.png)
