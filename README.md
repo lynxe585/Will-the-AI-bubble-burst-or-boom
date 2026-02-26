@@ -421,7 +421,7 @@ AI Market "Weight & Impact" Analysis reveals the systemic risk that AI stocks po
 
    
 ## Conclusion
-If you ask "Will the AI bubble burst or boom?" — the most honest answer is **both are happening at the same time, just not in the same stocks.**
+If you ask "Will the AI bubble burst or boom?"  the most honest answer is **both are happening at the same time, just not in the same stocks.**
 
 All three parts of this project point in the same direction: the AI era is not a bubble inflating equally everywhere. It is a market **fractured from within** — on one side, genuine growth backed by real earnings; on the other, speculation that has outrun reality by a wide margin.
 
@@ -429,21 +429,21 @@ All three parts of this project point in the same direction: the AI era is not a
 
 ### Price vs. Reality: Who's Standing on Solid Ground and Who's Floating in Mid-Air?
 
-When we compare stock prices against actual revenue, the picture is strikingly clear — **not every company has lost touch with reality.** NVIDIA's stock surged 837%, but its revenue grew an extraordinary 464% to back it up, with a correlation of r = 0.960, meaning its price tracks earnings almost in lockstep. Meanwhile, Microsoft, Alphabet, and Amazon have stayed firmly anchored near the fundamental baseline throughout.
+When we compare stock prices against actual revenue, the picture is strikingly clear **not every company has lost touch with reality.** NVIDIA's stock surged 837%, but its revenue grew an extraordinary 464% to back it up, with a correlation of r = 0.960, meaning its price tracks earnings almost in lockstep. Meanwhile, Microsoft, Alphabet, and Amazon have stayed firmly anchored near the fundamental baseline throughout.
 
-But the other side of the story is alarming: Palantir carries a price-to-revenue gap of **+768%** — its stock price has run nearly 8 times faster than its actual revenue. Oracle follows with a +256.8% gap, despite averaging just 8.4% annual revenue growth. And AMD? Only 3.5% of its price movement can be explained by revenue — in plain terms, its stock price and its business performance are virtually unrelated.
+But the other side of the story is alarming: Palantir carries a price-to-revenue gap of **+768%** its stock price has run nearly 8 times faster than its actual revenue. Oracle follows with a +256.8% gap, despite averaging just 8.4% annual revenue growth. And AMD? Only 3.5% of its price movement can be explained by revenue in plain terms, its stock price and its business performance are virtually unrelated.
 
 ### History Rhymes, But It Doesn't Repeat
 
-When we overlay Dot-com era price trajectories against AI-era charts day-by-day, the findings are fascinating — AI-era stocks have flown far higher in almost every category (NVDA peaked at 14.5× vs. CSCO's 3.4×; PLTR hit 32.4× vs. MSTR's 20.7×). Yet the NASDAQ index delivered the exact same **2.3× return** in both eras. What does that tell us? It tells us this rally is **far more concentrated in fewer names** than the Dot-com boom ever was.
+When we overlay Dot-com era price trajectories against AI-era charts day-by-day, the findings are fascinating AI-era stocks have flown far higher in almost every category (NVDA peaked at 14.5× vs. CSCO's 3.4×; PLTR hit 32.4× vs. MSTR's 20.7×). Yet the NASDAQ index delivered the exact same **2.3× return** in both eras. What does that tell us? It tells us this rally is **far more concentrated in fewer names** than the Dot-com boom ever was.
 
-What's different from the past is that **volatility is less than half** — the AI era averages 18.6% versus 38.5% during Dot-com. This could mean one of two things: the market has stronger conviction, or the bubble simply hasn't reached its breaking point yet. The Dot-com survivors — Amazon, Microsoft, and Oracle — show significantly smaller drawdowns this time, suggesting more mature, fundamentals-aware market behavior. The exception? Oracle, whose trajectory still mirrors its Dot-com exuberance — as if it never learned the lesson from history.
+What's different from the past is that **volatility is less than half** the AI era averages 18.6% versus 38.5% during Dot-com. This could mean one of two things: the market has stronger conviction, or the bubble simply hasn't reached its breaking point yet. The Dot-com survivors; Amazon, Microsoft, and Oracle, show significantly smaller drawdowns this time, suggesting more mature, fundamentals-aware market behavior. The exception? Oracle, whose trajectory still mirrors its Dot-com exuberance, as if it never learned the lesson from history.
 
 ### When the Entire Market Rests on a Handful of Stocks
 
-The most sobering numbers lie in the final part of the analysis — just **8 AI stocks** now command **35%** of the S&P 500, valued at roughly $17.5 trillion — more than the GDP of every country on Earth except the United States and China. These 8 stocks have returned +661.8% since early 2023, while the average S&P 500 stock returned only +36.6%.
+The most sobering numbers lie in the final part of the analysis just **8 AI stocks** now command **35%** of the S&P 500, valued at roughly $17.5 trillion more than the GDP of every country on Earth except the United States and China. These 8 stocks have returned +661.8% since early 2023, while the average S&P 500 stock returned only +36.6%.
 
-A crash simulation makes the stakes crystal clear: if AI stocks dropped 50% alone, it would drag the entire S&P 500 down by **17.5%**, erasing over **1,200 points** — that is the price of an entire financial system hanging on the shoulders of just a few names.
+A crash simulation makes the stakes crystal clear: if AI stocks dropped 50% alone, it would drag the entire S&P 500 down by **17.5%**, erasing over **1,200 points** that is the price of an entire financial system hanging on the shoulders of just a few names.
 
 ---
 
