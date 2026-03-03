@@ -30,7 +30,7 @@ Since 2023, markets have entered an AI Boom with a very similar narrative:
 -   Big Tech names like  MSFT, GOOGL, META, AMZN have been strongly re‑rated on AI investment.
 <br/>
 <p align="center">
-  ** The market is asking that do current prices reflect real revenue/profit potential, or is this a new “AI Bubble” similar to Dot-com? **
+  "The market is asking that do current prices reflect real revenue/profit potential, or is this a new “AI Bubble” similar to Dot-com?"
 </p>
 <br/>
 
