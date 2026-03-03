@@ -29,7 +29,10 @@ Since 2023, markets have entered an AI Boom with a very similar narrative:
 
 -   Big Tech names like  MSFT, GOOGL, META, AMZN have been strongly re‑rated on AI investment.
 
-The market is asking that do current prices reflect real revenue/profit potential, or is this a new “AI Bubble” similar to Dot-com?
+<p align="center">
+  The market is asking that do current prices reflect real revenue/profit potential, or is this a new “AI Bubble” similar to Dot-com?
+</p>
+
 
 This project approaches those questions from a perspective along three main axes:
 
@@ -38,7 +41,8 @@ This project approaches those questions from a perspective along three main axes
 -   Historical Overlay – How similar or different is the AI cycle versus Dot-com?
 
 -   Systemic Impact – If AI “bursts”, how much pain does it create for the S&P 500?
-  
+
+
 Under this analytical lens, we have identified eight benchmark companies **AMD, AMZN, GOOGL, META, MSFT, NVDA, ORCL, and PLTR** to test the decoupling hypothesis.
 
 ---
