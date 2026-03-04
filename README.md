@@ -285,17 +285,17 @@ Takeaway:
 Both eras reached nearly the same peak at 230 (normalized price), but the AI-era rally took twice as long to get there. The key question remains: is this the same ceiling, or does the slower ascent reflect stronger fundamentals that can push beyond the Dot-com's breaking point?
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part2/figure7.png)
-#### **Figure 7**: Overlay Summary — How High Did Each Stock Fly?
+#### **Figure 7**: Overlay Summary How High Did Each Stock Fly?
 Peak price multipliers from rally start, Dot-com (1999–2001) vs AI era (2023–2025):
 
--    Poster Child: NVDA peaked at 14.5x, dwarfing CSCO's 3.4x — the AI flagship rallied over 4x harder.
+-    Poster Child: NVDA peaked at 14.5x, dwarfing CSCO's 3.4x, the AI flagship rallied over 4x harder.
 -    Infra Leader: The only category where Dot-com wins. JDSU hit 25.9x vs AVGO's 14.5x.
--    Infra Follower: AMD (4.1x) modestly exceeds QCOM (2.5x) — both relatively restrained.
--    Survivors (AMZN, MSFT, ORCL): Similar 1.8–6.5x ranges in both eras — fundamentals-driven stocks stay grounded regardless of surrounding hype.
--    Speculative: PLTR (32.4x) surpasses MSTR (20.7x) by over 50% — the AI era's speculative frenzy runs even hotter.
+-    Infra Follower: AMD (4.1x) modestly exceeds QCOM (2.5x), both relatively restrained.
+-    Survivors (AMZN, MSFT, ORCL): Similar 1.8–6.5x ranges in both eras, fundamentals-driven stocks stay grounded regardless of surrounding hype.
+-    Speculative: PLTR (32.4x) surpasses MSTR (20.7x) by over 50%, the AI era's speculative frenzy runs even hotter.
 -    NASDAQ Index: Identical 2.3x gains in both eras despite wildly different stock-level behavior.
 
-Takeaway: AI-era stocks fly higher than their Dot-com peers, yet the index gained the same — the rally is more concentrated in fewer names this time.
+Takeaway: AI-era stocks fly higher than their Dot-com peers, yet the index gained the same, the rally is more concentrated in fewer names this time.
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part2/figure8.png)
@@ -318,15 +318,15 @@ The AI Era (Blue Solid line): The current market is behaving much more calmly.
 This chart directly proves that the AI boom is taking place in a significantly more stable market environment than the Dot-com bubble. While the Dot-com era was characterized by chaotic, erratic price swings that kept investors on edge, the AI era has maintained consistently lower volatility, resulting in a much smoother and steadier ride overall. 
 
 ### Summary
--    The "Poster Child" — AI's Flagship Soars Far Higher NVIDIA, the AI era's poster child, peaked at 14.5× its starting price — more than four times Cisco's 3.4× during the Dot-com boom. The AI era's flagship stock has run far hotter than its historical counterpart.
+-    The "Poster Child": AI's Flagship Soars Far Higher NVIDIA, the AI era's poster child, peaked at 14.5× its starting price — more than four times Cisco's 3.4× during the Dot-com boom. The AI era's flagship stock has run far hotter than its historical counterpart.
 
--    Extreme Speculation — Even Bigger This Time Speculative names posted the highest multipliers of any category. Palantir (PLTR) peaked at 32.4×, surpassing MicroStrategy's (MSTR) 20.7× from the Dot-com era. Today's investors are willing to pay even steeper premiums on hype-driven narratives.
+-    Extreme Speculation: Even Bigger This Time Speculative names posted the highest multipliers of any category. Palantir (PLTR) peaked at 32.4×, surpassing MicroStrategy's (MSTR) 20.7× from the Dot-com era. Today's investors are willing to pay even steeper premiums on hype-driven narratives.
 
--    Infrastructure — The One Exception Infrastructure is the only category where the Dot-com era wins. The Dot-com Infra Leader hit 25.9× versus the AI era's 14.5×, reflecting the massive overinvestment in networking infrastructure during the Dot-com boom that has no equivalent in the AI era yet.
+-    Infrastructure: The One Exception Infrastructure is the only category where the Dot-com era wins. The Dot-com Infra Leader hit 25.9× versus the AI era's 14.5×, reflecting the massive overinvestment in networking infrastructure during the Dot-com boom that has no equivalent in the AI era yet.
 
--    Survivors — Remarkably Similar Across Eras Battle-tested tech giants delivered comparable returns in both periods. AMZN (1.8× vs 3.0×), MSFT (1.7× vs 2.3×), while ORCL actually performed better in the Dot-com era (6.5× vs 4.1×). These fundamentally strong companies weren't subject to extreme speculation in either era.
+-    Survivors: Remarkably Similar Across Eras Battle-tested tech giants delivered comparable returns in both periods. AMZN (1.8× vs 3.0×), MSFT (1.7× vs 2.3×), while ORCL actually performed better in the Dot-com era (6.5× vs 4.1×). These fundamentally strong companies weren't subject to extreme speculation in either era.
 
--    Same Market Return, Different Story Despite far higher individual stock gains, the NASDAQ delivered an identical 2.3× return in both eras. The AI rally is concentrated in fewer names — unlike the Dot-com boom which lifted the broader market. If the handful of AI leaders stumble, the index-level impact could be outsized.
+-    Same Market Return, Different Story Despite far higher individual stock gains, the NASDAQ delivered an identical 2.3× return in both eras. The AI rally is concentrated in fewer names, unlike the Dot-com boom which lifted the broader market. If the handful of AI leaders stumble, the index-level impact could be outsized.
 
 ---
 
