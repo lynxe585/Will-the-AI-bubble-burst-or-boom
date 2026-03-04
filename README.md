@@ -346,7 +346,7 @@ To truly grasp the scale of this tech dominance, and the systemic vulnerabilitie
 Next, we will demonstrate the visualizations derived from the analysis of the available dataset.
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure1.png)
-#### **figure 1**: AI Concentration in the S&P 500
+#### **Figure 1**: AI Concentration in the S&P 500
 As of December 30, 2025, just 8 AI stocks collectively represent 35% of the S&P 500's total market capitalization — approximately $17.5 trillion out of an estimated $50 trillion. This figure highlights an extreme level of market concentration, where a single investment theme dominates over one-third of America's most important stock index.
 
 Here is the detailed breakdown of the chart's components:
@@ -359,7 +359,7 @@ Here is the detailed breakdown of the chart's components:
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure2.png)
-#### **figure 2**: GDP Reality Check: AI 8 Stocks vs. Major Economies
+#### **Figure 2**: GDP Reality Check: AI 8 Stocks vs. Major Economies
 Compares the $17.50 trillion combined market cap of the 8 AI stocks against the GDP of major world economies (2024 data), asking a simple question: How does the market value of just 8 companies stack up against the economic output of entire nations?
 
 Here is the detailed breakdown of the chart's components:
@@ -374,7 +374,7 @@ Here is the detailed breakdown of the chart's components:
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure3.png)
-#### **figure 3**: The chart illustrates the massive outperformance of a select group of AI stock compared to the broader market between early 2023 and early 2026
+#### **Figure 3**: The chart illustrates the massive outperformance of a select group of AI stock compared to the broader market between early 2023 and early 2026
 
 Here is the detailed breakdown of the chart’s components: 
 1. Cumulative Return Comparison (Top Chart) This chart tracks the percentage growth over time, highlighting a stark contrast in performance:
@@ -405,7 +405,7 @@ This table reveals the root cause of the projected drops. Because the AI sector 
 
 
 ![](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a2b9abbb58703842df4bdf4b0e6dd7dcea86d271/part3/figure4.png)
-#### **figure 4**: The chart illustrates how different levels of a hypothetical crash in AI stocks would impact the broader S&P 500 index.
+#### **Figure 4**: The chart illustrates how different levels of a hypothetical crash in AI stocks would impact the broader S&P 500 index.
 
 Here is a detailed breakdown of the chart's components:
 1. The Baseline:
