@@ -391,6 +391,7 @@ This chart visually demonstrates that a handful of AI stocks have been almost en
 
 To understand the true gravity of the risk levels shown in the bar chart (Figure 4), we must look at the underlying stress test data in our crash simulation table.
 
+
 | Scenario | AI Drop | S&P Impact | Points Lost | New Level |
 |----------|---------|------------|-------------|-----------|
 | Minor Correction | -10% | -3.50% | -241 | 6,655 |
