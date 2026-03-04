@@ -107,7 +107,7 @@ Each chart overlays quarterly stock price (line) against quarterly revenue (bars
 
 ---
 
-![Figure 4](https://github.com/lynxe585/Will-the-AI-bubble-burst-or-boom/blob/a8bd455d1d531287169284d32584e8614b5a07fd/part1/figure4.png)
+![Figure 4](./part1/figure4.png)
 #### **Figure 4**: Revenue YoY Growth: Only NVDA (Avg 124.0%) consistently exceeds the 50% YoY threshold (orange bars), showing its revenue growth truly justifies the price surge.
 The rest grow moderately: PLTR (26.8%), META (18.8%), MSFT (15.7%), GOOGL (11.6%), AMZN (11.3%), AMD (10.8%), and ORCL (8.4%).
 
