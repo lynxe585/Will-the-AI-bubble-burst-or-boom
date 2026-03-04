@@ -399,7 +399,7 @@ To understand the true gravity of the risk levels shown in the bar chart (Figure
 | Severe Bear | -40% | -14.00% | -966 | 5,931 |
 | Bubble Burst | -50% | -17.50% | -1,207 | 5,689 |
 
-This table reveals the root cause of the projected drops. Because the AI sector now commands an overwhelming 35.0% weight in the market, a mere -10% drop in AI stocks—a minor correction—is enough to instantly wipe 241 points off the S&P 500. Furthermore, if we face a catastrophic 'Bubble Burst' where AI stocks lose 50% of their value, the broader market would hemorrhage a staggering 1,207 points, dragging the index down to 5,689. This simulation is empirical proof that the modern market's survival is entirely tethered to the fate of a single, highly concentrated sector.
+This table reveals the root cause of the projected drops. Because the AI sector now commands an overwhelming 35.0% weight in the market, a mere -10% drop in AI stocks, a minor correction, is enough to instantly wipe 241 points off the S&P 500. Furthermore, if we face a catastrophic 'Bubble Burst' where AI stocks lose 50% of their value, the broader market would hemorrhage a staggering 1,207 points, dragging the index down to 5,689. This simulation is empirical proof that the modern market's survival is entirely tethered to the fate of a single, highly concentrated sector.
 
 
 
