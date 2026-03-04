@@ -318,7 +318,7 @@ The AI Era (Blue Solid line): The current market is behaving much more calmly.
 This chart directly proves that the AI boom is taking place in a significantly more stable market environment than the Dot-com bubble. While the Dot-com era was characterized by chaotic, erratic price swings that kept investors on edge, the AI era has maintained consistently lower volatility, resulting in a much smoother and steadier ride overall. 
 
 ### Summary
--    The "Poster Child": AI's Flagship Soars Far Higher NVIDIA, the AI era's poster child, peaked at 14.5× its starting price — more than four times Cisco's 3.4× during the Dot-com boom. The AI era's flagship stock has run far hotter than its historical counterpart.
+-    The "Poster Child": AI's Flagship Soars Far Higher NVIDIA, the AI era's poster child, peaked at 14.5× its starting price, more than four times Cisco's 3.4× during the Dot-com boom. The AI era's flagship stock has run far hotter than its historical counterpart.
 
 -    Extreme Speculation: Even Bigger This Time Speculative names posted the highest multipliers of any category. Palantir (PLTR) peaked at 32.4×, surpassing MicroStrategy's (MSTR) 20.7× from the Dot-com era. Today's investors are willing to pay even steeper premiums on hype-driven narratives.
 
